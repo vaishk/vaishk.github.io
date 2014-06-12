@@ -1,0 +1,285 @@
+body{
+	background-color: #ffffff;
+  font-family: 'pt_sansregular';
+  width: 100%;
+}
+
+body, html {
+  height: 100%;
+}
+
+div.wrap {
+  height: 100%
+  overflow: hidden; 
+}
+
+.about, .vaishali, .books, .blog, .contact {
+  position: absolute;
+}
+
+
+@media only screen and (min-width: 300px) and (orientation: landscape){
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 0%;
+}
+
+.blog , .books {
+  bottom: 3%;
+}
+
+.vaishali {
+  top: 20%;
+  left: 35%;
+}
+
+.vaishali img {
+  width: 70%;
+}
+
+.noshow {
+  visibility: hidden;
+}
+}
+
+@media only screen and (min-width: 300px) and (orientation: portrait) {
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 0%;
+}
+
+.blog , .books {
+  bottom: 3%;
+}
+
+.vaishali {
+  top: 30%;
+  left: 25%;
+}
+
+.vaishali img {
+  width: 80%;
+}
+
+.noshow {
+  visibility: hidden;
+}
+}
+
+@media only screen and (min-width: 600px) {
+
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 0%;
+}
+
+.blog , .books {
+  bottom: 3%;
+}
+
+.vaishali {
+  top: 25%;
+  left: 25%;
+}
+
+.vaishali img {
+  width: 100%;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (orientation: landscape) {
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 0%;
+}
+
+.blog , .books {
+  bottom: 5%;
+}
+
+.vaishali {
+  top: 20%;
+  left: 30%;
+}
+
+img {
+  width: 85%;
+}
+
+.books img {
+  width: 75%;
+}
+
+.noshow {
+  visibility: visible;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (orientation: portrait) {
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 8%;
+}
+
+.blog , .books {
+  bottom: 10%;
+}
+
+.vaishali {
+  top: 32%;
+  left: 25%;
+}
+
+.noshow {
+  visibility: visible;
+}
+}
+
+@media only screen and (min-width: 992px) {
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 0%;
+}
+
+.blog , .books {
+  bottom: 3%;
+}
+
+.vaishali {
+  top: 15%;
+  left: 36%;
+}
+img {
+  width: 100%;
+}
+
+.books img {
+  width: 100%;
+}
+}
+
+@media only screen and (min-width: 1024px) {
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 0%;
+}
+
+.blog , .books {
+  bottom: 3%;
+}
+
+.vaishali {
+  top: 25%;
+  left: 35%;
+}
+}
+@media only screen and (min-width: 1200px) {
+.about, .books {
+  left: 0%;
+}
+.contact, .blog {
+  right: 0%;
+}
+
+.about, .contact {
+  top: 0%;
+}
+
+.blog , .books {
+  bottom: 3%;
+}
+
+.vaishali {
+  top: 15%;
+  left: 36%;
+}
+}
+
+#bottom {
+  background: #000000;
+  position: fixed;
+  bottom: 0;
+  left: 0; right: 0;
+  height: 20px;
+     }
+
+@font-face {
+    font-family: 'pt_sansbold';
+    src: url('pts75f-webfont.eot');
+    src: url('pts75f-webfont.eot?#iefix') format('embedded-opentype'),
+         url('pts75f-webfont.woff') format('woff'),
+         url('pts75f-webfont.ttf') format('truetype'),
+         url('pts75f-webfont.svg#pt_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pt_sansitalic';
+    src: url('pts56f-webfont.eot');
+    src: url('pts56f-webfont.eot?#iefix') format('embedded-opentype'),
+         url('pts56f-webfont.woff') format('woff'),
+         url('pts56f-webfont.ttf') format('truetype'),
+         url('pts56f-webfont.svg#pt_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pt_sansregular';
+    src: url('pts55f-webfont.eot');
+    src: url('pts55f-webfont.eot?#iefix') format('embedded-opentype'),
+         url('pts55f-webfont.woff') format('woff'),
+         url('pts55f-webfont.ttf') format('truetype'),
+         url('pts55f-webfont.svg#pt_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
