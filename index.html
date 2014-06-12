@@ -1,87 +1,12 @@
-<html>
+---
+layout: page
+title: Latest Posts
+description: "A simple and clean responsive Jekyll theme for words and photos."
+tags: [Jekyll, theme, themes, responsive, blog, minimalism]
+---
 
-<head>
-	<title>K Vaishali</title>
-</head>
-<link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">
-<link href="assets/css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
-<link href="assets/css/style.css" rel="stylesheet" type="text/css">
-<body>
-	<div class=wrap> 
-	<div id="bottom">
-	<div style="width:100%;margin:0 auto; padding: 0; color: #ffffff;">
-     <div style="text-align:center; float:left;width:32%;border: thin solid black" class="noshow">
-         Designed and Developed by K Vaishali         
-     </div>
-     <div style="text-align:center; float:left;width:32%;border: thin solid black">
-         &copy; Vaishali 2014
-     </div>
-     <div style="text-align:center; float:left;width:32%;border: thin solid black" class="noshow">
-          Powered by Jekyll 
-     </div>
- </div>
- <div style="clear:both">
- </div>
-	</div>
-	<a href="www.k.vaishali.rhcloud.com/about">
-		<div class="about">
-      <picture>
-        <source srcset="images/about-b.png" media="(min-width: 1200px)">
-        <source srcset="images/about-l.png" media="(min-width: 750px)">
-        <source srcset="images/about-m.png" media="(min-width: 500px)">
-        <source srcset="images/about-s.png" media="(min-width: 300px)">
-        <img srcset="images/about-b.png" alt="about">
-      </picture>
-    </div>
-</a>
-		<div class="vaishali" >
-     	<picture>
-        <source srcset="images/vaishali-b.png" media="(min-width: 1200px)">
-        <source srcset="images/vaishali-l.png" media="(min-width: 500px)">
-        <source srcset="images/vaishali-m.png" media="(min-width: 300px)">
-        <img srcset="images/vaishali-b.png" alt="k vaishali">
-      </picture>
-		</div>
-<a href="www.k.vaishali.rhcloud.com/contact">
-		<div class="contact" >
-  		<picture>
-        <source srcset="images/contact-b.png" media="(min-width: 1200px)">
-        <source srcset="images/contact-l.png" media="(min-width: 750px)">
-        <source srcset="images/contact-m.png" media="(min-width: 500px)">
-        <source srcset="images/contact-s.png"  media="(min-width: 300px)">
-        <img srcset="images/contact-b.png" alt="contact">
-      </picture>	
-  	</div>
-  </a>
-	<a href="www.k.vaishali.rhcloud.com/books">
-		<div class="books">
-  	 <picture>
-        <source srcset="images/books-b.png" media="(min-width: 1200px)">
-        <source srcset="images/books-l.png" media="(min-width: 750px)">
-        <source srcset="images/books-m.png" media="(min-width: 500px)">
-        <source srcset="images/books-s.png"  media="(min-width: 300px)">
-        <img srcset="images/books-b.png" alt="books">
-      </picture>
-    </div>
-</a>
-<a href="www.k.vaishali.rhcloud.com/blog">
-		<div class="blog" >
-  		<picture>
-        <source srcset="images/blog-b.png" media="(min-width: 1200px)">
-        <source srcset="images/blog-l.png" media="(min-width: 750px)">
-        <source srcset="images/blog-m.png" media="(min-width: 500px)">
-        <source srcset="images/blog-s.png" media="(min-width: 300px)">
-        <img srcset="images/blog-b.png" alt="blog">
-      </picture>
-  	</div>
-  	</a>  		
-</div>
-</body>
-<script src="assets/js/picturefill.min.js"></script>
-<script src="assets/js/restove.min.js"></script>
-<script src="assets/js/jquery-1.11.1.js"></script>
-<script>
-// Picture element HTML5 shiv
-document.createElement( "picture" );
-</script>
-</html>
+<ul class="post-list">
+{% for post in site.posts limit:10 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
