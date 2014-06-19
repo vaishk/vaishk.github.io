@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: K Vaishali
+title: Contact
 tags: [Life]
 modified: 2014-06-12
 ---

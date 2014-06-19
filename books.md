@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /books/
-title: K Vaishali
+title: Books
 tags: [Life]
 modified: 2014-06-12
 ---
 
-I am dummy text
+Coming soon
