@@ -6,4 +6,4 @@ tags: [Life]
 modified: 2014-06-12
 ---
 
-You can mail me at mail[dot]vaishalikannan[at]gmail.com
+I can be reached through email at [email.kvaishali@gmail.com](mailto:email.kvaishali@gmail.com)
