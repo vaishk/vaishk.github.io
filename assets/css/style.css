@@ -283,3 +283,14 @@ img {
 
 }
 
+.me {
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+
+p {
+    font-size: 1.125rem;
+    line-height: 1.55556;
+    margin-bottom: 1.5rem;
+}
