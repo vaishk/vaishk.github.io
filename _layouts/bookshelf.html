@@ -1,0 +1,36 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+<style type="text/css">
+	body  {
+		overflow: hidden;
+	}
+</style>
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/normalize2.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/demo2.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/bookblock.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/component5.css" />
+</head>
+
+<body id="page">
+
+{% include navigation.html %}
+	 <header class="entry-header">
+        <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
+      </header>
+
+      <div class="entry-content">
+        {{ content }}
+      </div><!-- /.entry-content -->
+<script src="{{ site.url }}/assets/js/bookblock.min.js"></script>
+<script src="{{ site.url }}/assets/js/classie.js"></script>
+<script src="{{ site.url }}/assets/js/bookshelf.js"></script>
+
+{% include scripts.html %}          
+
+</body>
+</html>
