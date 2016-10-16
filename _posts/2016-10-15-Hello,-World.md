@@ -13,10 +13,15 @@ image:
 My debut novel sees the light of day! 
 
 A small chronology of events:
+
 Aug 2012 - Realised I wanted to be a writer
+
 Aug 2013 - Started working on MEANS TO AN END
+
 May 2014 - Finished writing the novella
+
 Dec 2015 - Signed publishing deal with Leadstart publishing
+
 Oct 2016 - Published
 
 Here I have archived snippets from my diary that outlines the entire process:
