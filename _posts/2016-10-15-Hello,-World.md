@@ -74,7 +74,7 @@ I am happy.
 ### I can't wait for people to read my book
 *11 Jan 2014: More enthusiasm*
 
-This is what an amazing life feels like. I love reading what I write. I can't believe a person can get so much satisfaction from doing something. I have been writing all my life but the way I feel about my novel is so much different from the way I feel about writing my blog. I don't know what it is or how to define it but I am incredibly happy. Someone could have thrown shit on my face today and I would still be very happy. That is how happy I am.
+This is what an amazing life feels like. I love reading what I write. I can't believe a person can get so much satisfaction from doing something. I have been writing all my life but the way I feel about my novel is so much different from the way I feel about writing other things. I don't know what it is or how to define it but I am incredibly happy. Someone could have thrown shit on my face today and I would still be very happy. That is how happy I am.
 
 This is sorted then. I am surely going to make it as a writer. I am not sure why I need to make it or why I get so happy everytime I think of it but I will figure that out. It's not like that is everything I want or anything. I mean, yes, my whole life will change because of it. People will take me more seriously. I will be able to accomplish the things I want for this world faster and grander. I won't have to worry about things I don't care about and I will be independent and free to do whatever I please. So many reasons- and all of these are not even directly related to my profession. My life is going to change for the best.
 
@@ -101,9 +101,11 @@ An agent finally broke the silence.. with a rejection. Somehow I felt relieved t
 
 This industry is making me feel like that. I was writing a big rant about it, but I guess it cooled off. I might finish it, though. This June is going to be the most uncertain month of my life. I am to decide what to do with this year- study or find some job, and minuter details thereof. Now I have to also decide how long and how far I am going to tolerate the traditional publishing bigotry. In other words- To self-publish or not? I am reading a guide to self-publishing. That, coupled with the experience I will have with literary agents this month should help me take a call by the end of June. As of now, I am bored, tired and pissed with them. I wish them good luck to sweep me off my feet.
 
+Anyway, turns out the genre of my book is actually "Contemporary fiction" and not so much "Literary fiction", all though it is very much literary fiction. If I wrote the book without knowing that, it probably doesn't matter. Just a marketing gimmick I guess. I am trying to use more of these marketing gimmicks to plead my case. I hope these are just first-time author formalities, and that I don't have to do it ever again. Why divide books into genres? It is not even practical.
+
 
 ### Rigorous Documentation of Hopes and Aspirations
-*3 October 2014: After a round of rejections, before sending second round of queries*
+*3 Oct 2014: After a round of rejections, before sending second round of queries*
 
 I absolutely must finish the work I have left with MTAE (Means to an end). Once I go back to college, I am never going to find even breathing time, let alone time for sending mails to strangers. Anyway, I am almost done with the synopsis. I just have to tweak it a bit grammatically. Also, I have to read parts of the first 3 chapters and whole of the first 5 pages and make sure that I am still happy with its form and matter. Now finding out whether I will still remain happy or not might be something that I want to procrastinate. Why do you think I am writing this instead?
 
@@ -111,8 +113,103 @@ That maybe so, but I also have to document the hopes and aspirations I have befo
 
 Well it really doesn't matter then, what the first 3 chapters or the synopsis reads like. Nobody is going to read them anyway. Everything is pointless. 
 
+### A Dustbin full of Cover Letters
+*5 Oct 2014: Re-inventing the wheel*
+
+I don't know. I must have written at least 5 versions of the cover letter by now. I can't even differentiate one from the other. I mean, I can. But not qualitatively. They all seem the same to me. Which one will work? How does working work? What does working entail?
+
+I don't know. I am really confused. This is all so subjective. How will I know what another person will like enough to want to publish? When I don't know their criteria to publish something? Anyway screw this.
+
+I am going to cry for a bit and see where that takes me.
+
+### Running Out of War Paint
+*6 Nov 2014: More rejections*
+
+It was pure genius of me to send out the manuscript to so many agents together because now I get a rejection almost everyday. 
+
+I don't have a heart for anything anymore. Stone cold reasons in these stone cold seasons. I feel like the whole world is conspiring against me. I feel like I am at war. All the time. Even if I am just talking to someone. It all comes down to taming myself to the world's ways. But I will never do that. For many reasons but simply because it will limit my potential.
+
+So I rather lose these wars? Maybe. I don't know.
 
 
+### It is here
+
+*6 Dec 2014: The first*
+
+"Dear Ms V,
+
+Thanks for your submission! We very much enjoyed reading the excerpt, and would love to read the full manuscript. If it's still available, please send it our way!
+
+All the best,
+Christine"
+ 
+It is here. It is perfect. I don't know if this would lead to things, but I want it to. 
+
+This is from an independent press based in the US.
+
+I am happy.
+
+
+### Ugh
+*12 Jan 2015: Anguish* 
+
+Everything will be better if I just find a publisher. My stagnant writing career is killing me on the inside. I don't really have time for a publisher right now, with all my retests and curriculum, but hell, I will make time. I just want someone to invest in me, and show me that my writing is worth printing and distributing.
+
+I'm not going to query anyone. I don't know who to query anymore. Anyway I can't waste time thinking about this anymore. 
+
+### It's here
+*8 Nov 2015: I get a publishing deal*
+
+It's here. Publishing deal. My first go-ahead in literature. 
+
+I have been in a bliss the last few days. This deal has given my life some purpose and direction. I don't know how it will play out and I don't know how I want it to play out either. I'm just going to see where it goes. But there are some perks already. I am a writer now. I will be taken seriously for it. At least more than I was.
+
+The last few days its been easier to get out of bed. I think this news is good for my mental health.
+
+### Feels Funny
+*2 Feb 2016: Communicating with the publisher*
+
+Re-reading old writings about getting published feels funny. God I went mad back then. It's happening now in a few months and I don't know what to expect from it. I can't even think of it.
+
+I am just sending things to my publisher, almost with a detachment. Not blindly though, but yes, with a detachment.  My book will be out there soon. What does that even mean?
+
+See, I am struggling to even write about it. Should I go to therapy? Maybe I have gone completely numb. Whatever it is, I am glad I don't have rely on my feelings for the book to get published.
+
+
+### Manuscript full of errors
+*29 Mar 2016: Publisher screws up*
+
+I am nervous.
+
+I got the paginated manuscript from the publisher and it was full of errors. Turns out they outsourced the novel to amature editors who had no idea what they were doing. It was so close to print and with such errors as spacing. I felt like it was published that way and it has become a nightmare. I am scared.
+
+The worst that could happen is that I am ridiculed for writing it. Right? Everybody could think it is silly and that I am silly, and I can't take it back. That's fine. If it happens, I am old enough to handle it and I could even write more despite it.
+
+I wish I got some external reassurance right now. I wish someone would hold me through the night and tell me all kinds of sweet lies about my future. But I am fine. I am taking my time to handle this and feel better. The worst part is I can't find reassurance from reading the book in this mindset. How else will I find reassurance?
+
+
+### May
+
+*4 Jun 2016: Scattered thoughts on becoming an Author*
+
+I spent the rest of May in Mt. Abu and Bombay.
+
+I wonder how writers write while they travel. I definitely don't understand writers who travel to be able to write. Look at me! Travel shuts me down. I am incapable of even writing a telegram when I travel. There has been a lot of pressure on me to write emails and write code in the past few days and that has made me write a bit. Or writing during travel makes me feel like I have never written words before.
+
+They keep reminding me that I have written a novel. Let's get on with it then, make me an author. I guess that will take a month or two more. August, if I am lucky. I wonder if I still care.
+  
+It's anything-is-possible time of the month - June. I don't feel it.
+
+### Holding this stupid baby
+*18 Sep 2016: Dummy copy*
+
+I got the dummy copy of my novel a few days ago. Holding it makes me feel hollow and empty. Is it mine? I have no feelings for it. I am completely under-whelmed. I wonder if people feel the same way when they hold their baby. Do they? I may never know.
+
+What of this book? Release it, whatever. I haven't written any more, anyway. It's not like I am dying to put more work out. My second novel is in disarray. I don't even give a shit. What happened with the first one? It was meh.
+
+Do people write second novels after they taste success? Is that a necessary pre-condition to doing a shittily underwhelming, unsatisfying and thankless activity one more time? What did it feel like when I wrote this stupid thing? Should I be publishing this with such thoughts?
+
+I don't want to think about it anymore. Take this away from me. This is bullshit.
 
 
 
