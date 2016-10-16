@@ -113,7 +113,7 @@ That maybe so, but I also have to document the hopes and aspirations I have befo
 
 Well it really doesn't matter then, what the first 3 chapters or the synopsis reads like. Nobody is going to read them anyway. Everything is pointless. 
 
-### A Dustbin full of Cover Letters
+### A Dustbin Full of Cover Letters
 *5 Oct 2014: Re-inventing the wheel*
 
 I don't know. I must have written at least 5 versions of the cover letter by now. I can't even differentiate one from the other. I mean, I can. But not qualitatively. They all seem the same to me. Which one will work? How does working work? What does working entail?
@@ -132,7 +132,7 @@ I don't have a heart for anything anymore. Stone cold reasons in these stone col
 So I rather lose these wars? Maybe. I don't know.
 
 
-### It is here
+### It is Here
 
 *6 Dec 2014: The first*
 
@@ -157,7 +157,7 @@ Everything will be better if I just find a publisher. My stagnant writing career
 
 I'm not going to query anyone. I don't know who to query anymore. Anyway I can't waste time thinking about this anymore. 
 
-### It's here
+### It is Here
 *8 Nov 2015: I get a publishing deal*
 
 It's here. Publishing deal. My first go-ahead in literature. 
@@ -176,7 +176,7 @@ I am just sending things to my publisher, almost with a detachment. Not blindly 
 See, I am struggling to even write about it. Should I go to therapy? Maybe I have gone completely numb. Whatever it is, I am glad I don't have rely on my feelings for the book to get published.
 
 
-### Manuscript full of errors
+### Manuscript Full of Errors
 *29 Mar 2016: Publisher screws up*
 
 I am nervous.
@@ -188,7 +188,7 @@ The worst that could happen is that I am ridiculed for writing it. Right? Everyb
 I wish I got some external reassurance right now. I wish someone would hold me through the night and tell me all kinds of sweet lies about my future. But I am fine. I am taking my time to handle this and feel better. The worst part is I can't find reassurance from reading the book in this mindset. How else will I find reassurance?
 
 
-### May
+### They Keep Reminding me that I have Written a Novel
 
 *4 Jun 2016: Scattered thoughts on becoming an Author*
 
@@ -200,7 +200,7 @@ They keep reminding me that I have written a novel. Let's get on with it then, m
   
 It's anything-is-possible time of the month - June. I don't feel it.
 
-### Holding this stupid baby
+### Now I am Holding this Stupid Baby
 *18 Sep 2016: Dummy copy*
 
 I got the dummy copy of my novel a few days ago. Holding it makes me feel hollow and empty. Is it mine? I have no feelings for it. I am completely under-whelmed. I wonder if people feel the same way when they hold their baby. Do they? I may never know.
