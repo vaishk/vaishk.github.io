@@ -12,17 +12,12 @@ image:
 
 My debut novel sees the light of day! 
 
-**Chronology:**
-
-Aug 2012 - Realised I wanted to be a writer
-
-Aug 2013 - Started working on MEANS TO AN END
-
-May 2014 - Finished writing MEANS TO AN END
-
-Dec 2015 - Signed publishing deal with Leadstart publishing
-
-Oct 2016 - Published
+**Chronology:**  
+Aug 2012 - Realised I wanted to be a writer  
+Aug 2013 - Started MEANS TO AN END  
+May 2014 - Finished MEANS TO AN END  
+Dec 2015 - Signed publishing deal with Leadstart publishing  
+Oct 2016 - Published  
 
 Here I have archived snippets from my diary that outlines the entire process:
 
@@ -32,7 +27,7 @@ Here I have archived snippets from my diary that outlines the entire process:
 
 I did this: [How to Discover your life purpose in about 20 minutes] [Life] 
 
-Accordingly, the purpose of my life is:
+Accordingly, the purpose of my life:
 I want to be free. I want to lose myself, wandering aimlessly, exploring and admiring complexities. I want to experience things that I haven't experienced before. I want to find a place where I belong. I want to be an influential writer. 
 
 The greatest lesson from this exercise is the realisation that I wanted to be a writer. I cried for the others too but not as hard. So writing is really what I want to do. Wow!
