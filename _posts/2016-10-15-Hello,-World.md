@@ -12,7 +12,7 @@ image:
 
 My debut novel sees the light of day! 
 
-A small chronology of events:
+The chronology:
 
 Aug 2012 - Realised I wanted to be a writer
 
@@ -30,7 +30,7 @@ Here I have archived snippets from my diary that outlines the entire process:
 ### Realisation
 *27 Aug 2012: I realised I wanted to write*
 
-I did this: http://www.stevepavlina.com/blog/2005/01/how-to-discover-your-life-purpose-in-about-20-minutes/
+I did this: [How to Discover your life purpose in about 20 minutes] [Life] 
 
 Accordingly, the purpose of my life is:
 I want to be free. I want to lose myself, wandering aimlessly, exploring and admiring complexities. I want to experience things that I haven't experienced before. I want to find a place where I belong. I want to be an influential writer. 
@@ -88,4 +88,9 @@ Well it really doesn't matter then, what the first 3 chapters or the synopsis re
 
 ###
 
+
+
+
+
+[Life]: http://www.stevepavlina.com/blog/2005/01/how-to-discover-your-life-purpose-in-about-20-minutes/
 
