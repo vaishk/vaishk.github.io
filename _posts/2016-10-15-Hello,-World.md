@@ -1,11 +1,19 @@
 ---
 layout: post
-title: Hello, World
+title: Hello, World!
 category: publishing
 tags: publishing
 comments: false
 share: true
+image:
+  feature: post1.jpg
+  credit: Leave us here, we will die!
 ---
+
+My debut novel sees the li
+
+
+
 
 My novel is out! 
 
@@ -34,6 +42,6 @@ That maybe so, but I also have to document the hopes and aspirations I have befo
 Well it really doesn't matter then, what the first 3 chapters or the synopsis reads like. Nobody is going to read them anyway. Everything is pointless. 
 
 
-
+###
 
 
