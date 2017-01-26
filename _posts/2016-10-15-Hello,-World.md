@@ -189,7 +189,6 @@ I wish I got some external reassurance right now. I wish someone would hold me t
 
 
 ### They Keep Reminding me that I have Written a Novel
-
 *4 Jun 2016: Scattered thoughts on becoming an Author*
 
 I spent the rest of May in Mt. Abu and Bombay.
@@ -201,7 +200,7 @@ They keep reminding me that I have written a novel. Let's get on with it then, m
 It's anything-is-possible time of the month - June. I don't feel it.
 
 ### Now I am Holding this Stupid Baby
-*18 Sep 2016: Dummy copy*
+*18 Sep 2016: I am an Author*
 
 I got the dummy copy of my novel a few days ago. Holding it makes me feel hollow and empty. Is it mine? I have no feelings for it. I am completely under-whelmed. I wonder if people feel the same way when they hold their baby. Do they? I may never know.
 
