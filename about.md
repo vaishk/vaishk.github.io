@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /about/
-title: About
 tags: [Life]
 modified: 2016-07-12
 ---

@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /books/
-title: Books
 tags: [Life]
 modified: 2016-07-12
 ---
