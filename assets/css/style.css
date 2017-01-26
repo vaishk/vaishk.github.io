@@ -300,3 +300,7 @@ p {
     font-weight: 200;
     text-align: justify;
 }
+
+.author {
+  margin: 0px;
+}
