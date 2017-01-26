@@ -6,7 +6,7 @@ tags: [Life]
 modified: 2016-07-12
 ---
 
-![image-left](/images/book.jpg){: .me} 
+![image-left](/images/book.jpg){: .book} 
 
 ## MEANS TO AN END
 *By K Vaishali*

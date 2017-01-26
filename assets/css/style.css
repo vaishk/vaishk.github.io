@@ -286,6 +286,13 @@ img {
     padding-right: 10px;
 }
 
+.book {
+    float: left;
+    width: 200px;
+    height: 300px;
+    padding-right: 30px;
+}
+
 p {
     font-size: 1rem;
     line-height: 1.3;
