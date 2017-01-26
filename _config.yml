@@ -38,10 +38,11 @@ links:
     external: true
   - title: About
     url: /about/
-  - title: Contact
-    url: /contact/
   - title: Books
     url: /books/
+  - title: Contact
+    url: /contact/
+
 #    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
