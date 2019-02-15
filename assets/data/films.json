@@ -1,0 +1,4757 @@
+[
+	{
+		"Title": "La grande illusion",
+		"Release Date": "06-04-37",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Shichinin no samurai",
+		"Release Date": "04-26-54",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "The Lady Vanishes",
+		"Release Date": "10-07-38",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "Amarcord",
+		"Release Date": "12-18-73",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Les quatre cents coups",
+		"Release Date": "05-04-59",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "La belle et la bête",
+		"Release Date": "09-30-46",
+		"Directors": "René Clément"
+	},
+	{
+		"Title": "A Night to Remember",
+		"Release Date": "07-01-58",
+		"Directors": "Roy Ward Baker"
+	},
+	{
+		"Title": "Dip huet seung hung",
+		"Release Date": "03-24-89",
+		"Directors": "John Woo"
+	},
+	{
+		"Title": "Lat sau san taam",
+		"Release Date": "04-16-92",
+		"Directors": "John Woo"
+	},
+	{
+		"Title": "Walkabout",
+		"Release Date": "05-16-71",
+		"Directors": "Nicolas Roeg"
+	},
+	{
+		"Title": "Det sjunde inseglet",
+		"Release Date": "02-16-57",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "This Is Spinal Tap",
+		"Release Date": "03-02-84",
+		"Directors": "Rob Reiner"
+	},
+	{
+		"Title": "The Silence of the Lambs",
+		"Release Date": "01-30-91",
+		"Directors": "Jonathan Demme"
+	},
+	{
+		"Title": "Miyamoto Musashi",
+		"Release Date": "09-26-54",
+		"Directors": "Hiroshi Inagaki"
+	},
+	{
+		"Title": "Zoku Miyamoto Musashi: Ichijôji no kettô",
+		"Release Date": "07-12-55",
+		"Directors": "Hiroshi Inagaki"
+	},
+	{
+		"Title": "Miyamoto Musashi kanketsuhen: kettô Ganryûjima",
+		"Release Date": "01-01-56",
+		"Directors": "Hiroshi Inagaki"
+	},
+	{
+		"Title": "Salò o le 120 giornate di Sodoma",
+		"Release Date": "11-22-75",
+		"Directors": "Pier Paolo Pasolini"
+	},
+	{
+		"Title": "The Naked Kiss",
+		"Release Date": "05-04-64",
+		"Directors": "Samuel Fuller"
+	},
+	{
+		"Title": "Shock Corridor",
+		"Release Date": "09-11-63",
+		"Directors": "Samuel Fuller"
+	},
+	{
+		"Title": "Sid and Nancy",
+		"Release Date": "05-31-86",
+		"Directors": "Alex Cox"
+	},
+	{
+		"Title": "Dead Ringers",
+		"Release Date": "09-08-88",
+		"Directors": "David Cronenberg"
+	},
+	{
+		"Title": "Summertime",
+		"Release Date": "05-29-55",
+		"Directors": "David Lean"
+	},
+	{
+		"Title": "RoboCop",
+		"Release Date": "07-17-87",
+		"Directors": "Paul Verhoeven"
+	},
+	{
+		"Title": "Tengoku to jigoku",
+		"Release Date": "03-01-63",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Alphaville",
+		"Release Date": " une étrange aventure de Lemmy Caution",
+		"Directors": "05-05-65"
+	},
+	{
+		"Title": "The Long Good Friday",
+		"Release Date": "08-31-80",
+		"Directors": "John Mackenzie"
+	},
+	{
+		"Title": "Flesh for Frankenstein",
+		"Release Date": "11-30-73",
+		"Directors": "Paul Morrissey"
+	},
+	{
+		"Title": "Blood for Dracula",
+		"Release Date": "03-01-74",
+		"Directors": "Paul Morrissey"
+	},
+	{
+		"Title": "Picnic at Hanging Rock",
+		"Release Date": "08-08-75",
+		"Directors": "Peter Weir"
+	},
+	{
+		"Title": "M - Eine Stadt sucht einen Mörder",
+		"Release Date": "05-11-31",
+		"Directors": "Fritz Lang"
+	},
+	{
+		"Title": "Great Expectations",
+		"Release Date": "12-16-46",
+		"Directors": "David Lean"
+	},
+	{
+		"Title": "Oliver Twist",
+		"Release Date": "06-28-48",
+		"Directors": "David Lean"
+	},
+	{
+		"Title": "Nanook of the North",
+		"Release Date": "06-11-22",
+		"Directors": "Robert J. Flaherty"
+	},
+	{
+		"Title": "Andrey Rublev",
+		"Release Date": "12-31-66",
+		"Directors": "Andrei Tarkovsky"
+	},
+	{
+		"Title": "Les diaboliques",
+		"Release Date": "01-29-55",
+		"Directors": "Henri-Georges Clouzot"
+	},
+	{
+		"Title": "Le salaire de la peur",
+		"Release Date": "04-15-53",
+		"Directors": "Henri-Georges Clouzot"
+	},
+	{
+		"Title": "Time Bandits",
+		"Release Date": "07-16-81",
+		"Directors": "Terry Gilliam"
+	},
+	{
+		"Title": "Koroshi no rakuin",
+		"Release Date": "06-15-67",
+		"Directors": "Seijun Suzuki"
+	},
+	{
+		"Title": "Tôkyô nagaremono",
+		"Release Date": "04-10-66",
+		"Directors": "Seijun Suzuki"
+	},
+	{
+		"Title": "Armageddon",
+		"Release Date": "06-30-98",
+		"Directors": "Michael Bay"
+	},
+	{
+		"Title": "The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France",
+		"Release Date": "11-22-44",
+		"Directors": "Laurence Olivier"
+	},
+	{
+		"Title": "Fishing with John",
+		"Release Date": "12-31-91",
+		"Directors": ""
+	},
+	{
+		"Title": "Lord of the Flies",
+		"Release Date": "05-12-63",
+		"Directors": "Peter Brook"
+	},
+	{
+		"Title": "The Red Shoes",
+		"Release Date": "07-22-48",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "Ta'm e guilass",
+		"Release Date": "05-16-97",
+		"Directors": "Abbas Kiarostami"
+	},
+	{
+		"Title": "The Most Dangerous Game",
+		"Release Date": "09-16-32",
+		"Directors": "Irving Pichel"
+	},
+	{
+		"Title": "Insomnia",
+		"Release Date": "03-14-97",
+		"Directors": "Erik Skjoldbjærg"
+	},
+	{
+		"Title": "Orfeu Negro",
+		"Release Date": "05-12-59",
+		"Directors": "Marcel Camus"
+	},
+	{
+		"Title": "Le notti di Cabiria",
+		"Release Date": "05-11-57",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "E la nave va",
+		"Release Date": "09-10-83",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Brazil",
+		"Release Date": "02-20-85",
+		"Directors": "Terry Gilliam"
+	},
+	{
+		"Title": "Yôjinbô",
+		"Release Date": "04-25-61",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Tsubaki Sanjûrô",
+		"Release Date": "01-01-62",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "For All Mankind",
+		"Release Date": "01-31-89",
+		"Directors": "Al Reinert"
+	},
+	{
+		"Title": "The Unbearable Lightness of Being",
+		"Release Date": "02-05-88",
+		"Directors": "Philip Kaufman"
+	},
+	{
+		"Title": "The 39 Steps",
+		"Release Date": "06-06-35",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "Charade",
+		"Release Date": "12-05-63",
+		"Directors": "Stanley Donen"
+	},
+	{
+		"Title": "Peeping Tom",
+		"Release Date": "04-07-60",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "Il portiere di notte",
+		"Release Date": "04-03-74",
+		"Directors": "Liliana Cavani"
+	},
+	{
+		"Title": "Höstsonaten",
+		"Release Date": "10-08-78",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Life of Brian",
+		"Release Date": "08-17-79",
+		"Directors": "Terry Jones"
+	},
+	{
+		"Title": "La passion de Jeanne d'Arc",
+		"Release Date": "04-21-28",
+		"Directors": "Carl Theodor Dreyer"
+	},
+	{
+		"Title": "Carnival of Souls",
+		"Release Date": "09-26-62",
+		"Directors": "Herk Harvey"
+	},
+	{
+		"Title": "The Third Man",
+		"Release Date": "09-01-49",
+		"Directors": "Carol Reed"
+	},
+	{
+		"Title": "Rushmore",
+		"Release Date": "09-17-98",
+		"Directors": "Wes Anderson"
+	},
+	{
+		"Title": "Le sang d'un poète",
+		"Release Date": "01-20-32",
+		"Directors": "Jean Cocteau"
+	},
+	{
+		"Title": "Orphée",
+		"Release Date": "03-01-50",
+		"Directors": "Jean Cocteau"
+	},
+	{
+		"Title": "Le testament d'Orphée",
+		"Release Date": " ou ne me demandez pas pourquoi!",
+		"Directors": "02-18-60"
+	},
+	{
+		"Title": "The Last Temptation of Christ",
+		"Release Date": "08-12-88",
+		"Directors": "Martin Scorsese"
+	},
+	{
+		"Title": "Trollflöjten",
+		"Release Date": "01-01-75",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Le million",
+		"Release Date": "02-04-31",
+		"Directors": "René Clair"
+	},
+	{
+		"Title": "Cléo de 5 à 7",
+		"Release Date": "04-11-62",
+		"Directors": "Agnès Varda"
+	},
+	{
+		"Title": "Sans toit ni loi",
+		"Release Date": "08-30-85",
+		"Directors": "Agnès Varda"
+	},
+	{
+		"Title": "Chasing Amy",
+		"Release Date": "01-23-97",
+		"Directors": "Kevin Smith"
+	},
+	{
+		"Title": "Brief Encounter",
+		"Release Date": "11-19-45",
+		"Directors": "David Lean"
+	},
+	{
+		"Title": "Et Dieu... créa la femme",
+		"Release Date": "11-28-56",
+		"Directors": "Roger Vadim"
+	},
+	{
+		"Title": "The Bank Dick",
+		"Release Date": "11-29-40",
+		"Directors": "Edward F. Cline"
+	},
+	{
+		"Title": "W.C. Fields: 6 Short Films",
+		"Release Date": "",
+		"Directors": ""
+	},
+	{
+		"Title": "Forbrydelsens element",
+		"Release Date": "05-14-84",
+		"Directors": "Lars von Trier"
+	},
+	{
+		"Title": "Luci del varietà",
+		"Release Date": "12-31-50",
+		"Directors": "Alberto Lattuada"
+	},
+	{
+		"Title": "Hamlet",
+		"Release Date": "05-06-48",
+		"Directors": "Laurence Olivier"
+	},
+	{
+		"Title": "The Harder They Come",
+		"Release Date": "12-31-72",
+		"Directors": "Perry Henzell"
+	},
+	{
+		"Title": "Ohayô",
+		"Release Date": "05-12-59",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Pygmalion",
+		"Release Date": "08-29-38",
+		"Directors": "Anthony Asquith"
+	},
+	{
+		"Title": "Aleksandr Nevskiy",
+		"Release Date": "11-25-38",
+		"Directors": "Dmitriy Vasilev"
+	},
+	{
+		"Title": "Ivan Groznyy",
+		"Release Date": "12-30-44",
+		"Directors": "Sergei M. Eisenstein"
+	},
+	{
+		"Title": "Ivan Groznyy. Skaz vtoroy: Boyarskiy zagovor",
+		"Release Date": "09-01-58",
+		"Directors": "Sergei M. Eisenstein"
+	},
+	{
+		"Title": "Sisters",
+		"Release Date": "11-18-72",
+		"Directors": "Brian De Palma"
+	},
+	{
+		"Title": "Kaidan",
+		"Release Date": "12-29-64",
+		"Directors": "Masaki Kobayashi"
+	},
+	{
+		"Title": "The Blob",
+		"Release Date": "09-10-58",
+		"Directors": "Irvin S. Yeaworth Jr."
+	},
+	{
+		"Title": "Fiend Without a Face",
+		"Release Date": "07-03-58",
+		"Directors": "Arthur Crabtree"
+	},
+	{
+		"Title": "Black Narcissus",
+		"Release Date": "04-24-47",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "'I Know Where I'm Going!'",
+		"Release Date": "11-08-45",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "All That Heaven Allows",
+		"Release Date": "08-25-55",
+		"Directors": "Douglas Sirk"
+	},
+	{
+		"Title": "Written on the Wind",
+		"Release Date": "10-18-56",
+		"Directors": "Douglas Sirk"
+	},
+	{
+		"Title": "Do the Right Thing",
+		"Release Date": "05-19-89",
+		"Directors": "Spike Lee"
+	},
+	{
+		"Title": "L'avventura",
+		"Release Date": "05-15-60",
+		"Directors": "Michelangelo Antonioni"
+	},
+	{
+		"Title": "Gimme Shelter",
+		"Release Date": "12-06-70",
+		"Directors": "David Maysles"
+	},
+	{
+		"Title": "Beastie Boys: Video Anthology",
+		"Release Date": "11-21-00",
+		"Directors": "Ari Marcopoulos"
+	},
+	{
+		"Title": "Viskningar och rop",
+		"Release Date": "12-21-72",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Le charme discret de la bourgeoisie",
+		"Release Date": "09-15-72",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "The Lady Eve",
+		"Release Date": "02-25-41",
+		"Directors": "Preston Sturges"
+	},
+	{
+		"Title": "Shinjû: Ten no Amijima",
+		"Release Date": "05-24-69",
+		"Directors": "Masahiro Shinoda"
+	},
+	{
+		"Title": "Spartacus",
+		"Release Date": "10-06-60",
+		"Directors": "Stanley Kubrick"
+	},
+	{
+		"Title": "Coup de torchon",
+		"Release Date": "11-04-81",
+		"Directors": "Bertrand Tavernier"
+	},
+	{
+		"Title": "Mona Lisa",
+		"Release Date": "06-13-86",
+		"Directors": "Neil Jordan"
+	},
+	{
+		"Title": "The Rock",
+		"Release Date": "06-07-96",
+		"Directors": "Michael Bay"
+	},
+	{
+		"Title": "The Scarlet Empress",
+		"Release Date": "05-09-34",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "Les vacances de Monsieur Hulot",
+		"Release Date": "02-25-53",
+		"Directors": "Jacques Tati"
+	},
+	{
+		"Title": "Mon oncle",
+		"Release Date": "05-09-58",
+		"Directors": "Jacques Tati"
+	},
+	{
+		"Title": "Playtime",
+		"Release Date": "12-16-67",
+		"Directors": "Jacques Tati"
+	},
+	{
+		"Title": "I soliti ignoti",
+		"Release Date": "07-26-58",
+		"Directors": "Mario Monicelli"
+	},
+	{
+		"Title": "My Man Godfrey",
+		"Release Date": "09-01-36",
+		"Directors": "Gregory La Cava"
+	},
+	{
+		"Title": "Du rififi chez les hommes",
+		"Release Date": "04-13-55",
+		"Directors": "Jules Dassin"
+	},
+	{
+		"Title": "Kakushi-toride no san-akunin",
+		"Release Date": "12-28-58",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Le journal d'une femme de chambre",
+		"Release Date": "03-04-64",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "Sullivan's Travels",
+		"Release Date": "12-05-41",
+		"Directors": "Preston Sturges"
+	},
+	{
+		"Title": "Withnail & I",
+		"Release Date": "03-27-87",
+		"Directors": "Bruce Robinson"
+	},
+	{
+		"Title": "How to Get Ahead in Advertising",
+		"Release Date": "03-30-89",
+		"Directors": "Bruce Robinson"
+	},
+	{
+		"Title": "Billy Liar",
+		"Release Date": "08-29-63",
+		"Directors": "John Schlesinger"
+	},
+	{
+		"Title": "Salesman",
+		"Release Date": "04-17-69",
+		"Directors": "David Maysles"
+	},
+	{
+		"Title": "Grey Gardens",
+		"Release Date": "09-27-75",
+		"Directors": "David Maysles"
+	},
+	{
+		"Title": "Vredens dag",
+		"Release Date": "11-13-43",
+		"Directors": "Carl Theodor Dreyer"
+	},
+	{
+		"Title": "Ordet",
+		"Release Date": "01-10-55",
+		"Directors": "Carl Theodor Dreyer"
+	},
+	{
+		"Title": "Gertrud",
+		"Release Date": "12-19-64",
+		"Directors": "Carl Theodor Dreyer"
+	},
+	{
+		"Title": "Carl Th. Dreyer: Min metier",
+		"Release Date": "12-07-95",
+		"Directors": "Torben Skjødt Jensen"
+	},
+	{
+		"Title": "Le trou",
+		"Release Date": "03-18-60",
+		"Directors": "Jacques Becker"
+	},
+	{
+		"Title": "Obchod na korze",
+		"Release Date": "05-20-65",
+		"Directors": "Elmar Klos"
+	},
+	{
+		"Title": "Ostre sledované vlaky",
+		"Release Date": "10-16-66",
+		"Directors": "Jirí Menzel"
+	},
+	{
+		"Title": "The Ruling Class",
+		"Release Date": "05-10-72",
+		"Directors": "Peter Medak"
+	},
+	{
+		"Title": "Spoorloos",
+		"Release Date": "08-29-88",
+		"Directors": "George Sluizer"
+	},
+	{
+		"Title": "Häxan",
+		"Release Date": "09-18-22",
+		"Directors": "Benjamin Christensen"
+	},
+	{
+		"Title": "Rebecca",
+		"Release Date": "03-21-40",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "Spellbound",
+		"Release Date": "10-31-45",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "Notorious",
+		"Release Date": "08-15-46",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "Rashômon",
+		"Release Date": "08-26-50",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Smultronstället",
+		"Release Date": "12-26-57",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "8½",
+		"Release Date": "02-13-63",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Les enfants du paradis",
+		"Release Date": "03-09-45",
+		"Directors": "Marcel Carné"
+	},
+	{
+		"Title": "The Last Wave",
+		"Release Date": "11-05-77",
+		"Directors": "Peter Weir"
+	},
+	{
+		"Title": "Cet obscur objet du désir",
+		"Release Date": "08-17-77",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "Lásky jedné plavovlásky",
+		"Release Date": "08-26-65",
+		"Directors": "Milos Forman"
+	},
+	{
+		"Title": "Horí",
+		"Release Date": " má panenko",
+		"Directors": "12-15-67"
+	},
+	{
+		"Title": "Letyat zhuravli",
+		"Release Date": "10-12-57",
+		"Directors": "Mikhail Kalatozov"
+	},
+	{
+		"Title": "Faa yeung nin wa",
+		"Release Date": "05-20-00",
+		"Directors": "Kar-Wai Wong"
+	},
+	{
+		"Title": "Ballada o soldate",
+		"Release Date": "12-01-59",
+		"Directors": "Grigoriy Chukhray"
+	},
+	{
+		"Title": "Giulietta degli spiriti",
+		"Release Date": "10-16-65",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Bob le flambeur",
+		"Release Date": "08-24-56",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "Traffic",
+		"Release Date": "12-06-00",
+		"Directors": "Steven Soderbergh"
+	},
+	{
+		"Title": "George Washington",
+		"Release Date": "02-29-00",
+		"Directors": "David Gordon Green"
+	},
+	{
+		"Title": "Général Idi Amin Dada: Autoportrait",
+		"Release Date": "05-22-74",
+		"Directors": "Barbet Schroeder"
+	},
+	{
+		"Title": "The Horse's Mouth",
+		"Release Date": "11-11-58",
+		"Directors": "Ronald Neame"
+	},
+	{
+		"Title": "Tôkyô orinpikku",
+		"Release Date": "03-20-65",
+		"Directors": "Kon Ichikawa"
+	},
+	{
+		"Title": "Hearts and Minds",
+		"Release Date": "05-31-74",
+		"Directors": "Peter Davis"
+	},
+	{
+		"Title": "The Royal Tenenbaums",
+		"Release Date": "10-05-01",
+		"Directors": "Wes Anderson"
+	},
+	{
+		"Title": "The Importance of Being Earnest",
+		"Release Date": "06-02-52",
+		"Directors": "Anthony Asquith"
+	},
+	{
+		"Title": "Akahige",
+		"Release Date": "04-03-65",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "À nous la liberté",
+		"Release Date": "12-18-31",
+		"Directors": "René Clair"
+	},
+	{
+		"Title": "Sous les toits de Paris",
+		"Release Date": "04-28-30",
+		"Directors": "René Clair"
+	},
+	{
+		"Title": "Ratcatcher",
+		"Release Date": "05-13-99",
+		"Directors": "Lynne Ramsay"
+	},
+	{
+		"Title": "Hopscotch",
+		"Release Date": "09-26-80",
+		"Directors": "Ronald Neame"
+	},
+	{
+		"Title": "Solyaris",
+		"Release Date": "12-30-71",
+		"Directors": "Andrei Tarkovsky"
+	},
+	{
+		"Title": "C'est arrivé près de chez vous",
+		"Release Date": "05-31-92",
+		"Directors": "Rémy Belvaux"
+	},
+	{
+		"Title": "Down by Law",
+		"Release Date": "05-17-86",
+		"Directors": "Jim Jarmusch"
+	},
+	{
+		"Title": "Monterey Pop",
+		"Release Date": "12-26-68",
+		"Directors": "D.A. Pennebaker"
+	},
+	{
+		"Title": "Jimi Plays Monterey",
+		"Release Date": "09-07-86",
+		"Directors": "D.A. Pennebaker"
+	},
+	{
+		"Title": "Shake!: Otis at Monterey",
+		"Release Date": "10-16-87",
+		"Directors": "D.A. Pennebaker"
+	},
+	{
+		"Title": "Trouble in Paradise",
+		"Release Date": "10-28-32",
+		"Directors": "Ernst Lubitsch"
+	},
+	{
+		"Title": "Le mépris",
+		"Release Date": "10-29-63",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Pépé le Moko",
+		"Release Date": "01-28-37",
+		"Directors": "Julien Duvivier"
+	},
+	{
+		"Title": "The Life and Death of Colonel Blimp",
+		"Release Date": "06-10-43",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "Bande à part",
+		"Release Date": "07-29-64",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Fear and Loathing in Las Vegas",
+		"Release Date": "05-15-98",
+		"Directors": "Terry Gilliam"
+	},
+	{
+		"Title": "The Killers",
+		"Release Date": "08-28-46",
+		"Directors": "Robert Siodmak"
+	},
+	{
+		"Title": "The Killers",
+		"Release Date": "07-07-64",
+		"Directors": "Don Siegel"
+	},
+	{
+		"Title": "Die verlorene Ehre der Katharina Blum",
+		"Release Date": "09-17-75",
+		"Directors": "Margarethe von Trotta"
+	},
+	{
+		"Title": "Mitt liv som hund",
+		"Release Date": "12-12-85",
+		"Directors": "Lasse Hallström"
+	},
+	{
+		"Title": "Jag är nyfiken - en film i gult",
+		"Release Date": "10-09-67",
+		"Directors": "Vilgot Sjöman"
+	},
+	{
+		"Title": "Jag är nyfiken - en film i blått",
+		"Release Date": "03-11-68",
+		"Directors": "Vilgot Sjöman"
+	},
+	{
+		"Title": "Straw Dogs",
+		"Release Date": "11-25-71",
+		"Directors": "Sam Peckinpah"
+	},
+	{
+		"Title": "Les dames du Bois de Boulogne",
+		"Release Date": "09-21-45",
+		"Directors": "Robert Bresson"
+	},
+	{
+		"Title": "Baisers volés",
+		"Release Date": "08-14-68",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "Domicile conjugal",
+		"Release Date": "09-01-70",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "L'amour en fuite",
+		"Release Date": "01-24-79",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "Lo sceicco bianco",
+		"Release Date": "09-06-52",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Kumonosu-jô",
+		"Release Date": "01-15-57",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Jubilee",
+		"Release Date": "02-28-78",
+		"Directors": "Derek Jarman"
+	},
+	{
+		"Title": "Der Fangschuß",
+		"Release Date": "10-22-76",
+		"Directors": "Volker Schlöndorff"
+	},
+	{
+		"Title": "Quai des Orfèvres",
+		"Release Date": "09-09-47",
+		"Directors": "Henri-Georges Clouzot"
+	},
+	{
+		"Title": "Il posto",
+		"Release Date": "09-01-61",
+		"Directors": "Ermanno Olmi"
+	},
+	{
+		"Title": "I fidanzati",
+		"Release Date": "05-16-63",
+		"Directors": "Ermanno Olmi"
+	},
+	{
+		"Title": "Hiroshima mon amour",
+		"Release Date": "05-08-59",
+		"Directors": "Alain Resnais"
+	},
+	{
+		"Title": "Nuit et brouillard",
+		"Release Date": "01-31-56",
+		"Directors": "Alain Resnais"
+	},
+	{
+		"Title": "Angst essen Seele auf",
+		"Release Date": "11-07-73",
+		"Directors": "Rainer Werner Fassbinder"
+	},
+	{
+		"Title": "Schizopolis",
+		"Release Date": "05-18-96",
+		"Directors": "Steven Soderbergh"
+	},
+	{
+		"Title": "The Honeymoon Killers",
+		"Release Date": "02-04-70",
+		"Directors": "Donald Volkman"
+	},
+	{
+		"Title": "Umberto D.",
+		"Release Date": "01-10-52",
+		"Directors": "Vittorio De Sica"
+	},
+	{
+		"Title": "Stazione Termini",
+		"Release Date": "04-02-53",
+		"Directors": "Vittorio De Sica"
+	},
+	{
+		"Title": "Die Ehe der Maria Braun",
+		"Release Date": "05-22-78",
+		"Directors": "Rainer Werner Fassbinder"
+	},
+	{
+		"Title": "Die Sehnsucht der Veronika Voss",
+		"Release Date": "02-18-82",
+		"Directors": "Rainer Werner Fassbinder"
+	},
+	{
+		"Title": "Lola",
+		"Release Date": "08-20-81",
+		"Directors": "Rainer Werner Fassbinder"
+	},
+	{
+		"Title": "Erogotoshi-tachi yori: Jinruigaku nyûmon",
+		"Release Date": "03-12-66",
+		"Directors": "Shôhei Imamura"
+	},
+	{
+		"Title": "Såsom i en spegel",
+		"Release Date": "10-16-61",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Nattvardsgästerna",
+		"Release Date": "02-09-63",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Tystnaden",
+		"Release Date": "09-23-63",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Ingmar Bergman gör en film",
+		"Release Date": "01-27-63",
+		"Directors": "Vilgot Sjöman"
+	},
+	{
+		"Title": "Richard III",
+		"Release Date": "12-13-55",
+		"Directors": "Laurence Olivier"
+	},
+	{
+		"Title": "All That Money Can Buy",
+		"Release Date": "10-16-41",
+		"Directors": "William Dieterle"
+	},
+	{
+		"Title": "Nóz w wodzie",
+		"Release Date": "03-09-62",
+		"Directors": "Roman Polanski"
+	},
+	{
+		"Title": "La règle du jeu",
+		"Release Date": "07-07-39",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Tôkyô monogatari",
+		"Release Date": "11-03-53",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Le cercle rouge",
+		"Release Date": "10-20-70",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "La strada",
+		"Release Date": "09-06-54",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Naked Lunch",
+		"Release Date": "12-12-91",
+		"Directors": "David Cronenberg"
+	},
+	{
+		"Title": "Ikiru",
+		"Release Date": "10-09-52",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Journal d'un curé de campagne",
+		"Release Date": "02-07-51",
+		"Directors": "Robert Bresson"
+	},
+	{
+		"Title": "Maîtresse",
+		"Release Date": "02-11-76",
+		"Directors": "Barbet Schroeder"
+	},
+	{
+		"Title": "Pickup on South Street",
+		"Release Date": "05-27-53",
+		"Directors": "Samuel Fuller"
+	},
+	{
+		"Title": "Tunes of Glory",
+		"Release Date": "09-04-60",
+		"Directors": "Ronald Neame"
+	},
+	{
+		"Title": "Onibaba",
+		"Release Date": "11-21-64",
+		"Directors": "Kaneto Shindô"
+	},
+	{
+		"Title": "Le corbeau",
+		"Release Date": "09-28-43",
+		"Directors": "Henri-Georges Clouzot"
+	},
+	{
+		"Title": "Salvatore Giuliano",
+		"Release Date": "03-01-62",
+		"Directors": "Francesco Rosi"
+	},
+	{
+		"Title": "Scener ur ett äktenskap",
+		"Release Date": "09-15-74",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "3 Women",
+		"Release Date": "04-03-77",
+		"Directors": "Robert Altman"
+	},
+	{
+		"Title": "Das Testament des Dr. Mabuse",
+		"Release Date": "01-01-33",
+		"Directors": "Fritz Lang"
+	},
+	{
+		"Title": "Ukikusa monogatari",
+		"Release Date": "11-23-34",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Ukikusa",
+		"Release Date": "11-17-59",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Nora inu",
+		"Release Date": "10-17-49",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Die Blechtrommel",
+		"Release Date": "05-03-79",
+		"Directors": "Volker Schlöndorff"
+	},
+	{
+		"Title": "Il gattopardo",
+		"Release Date": "03-27-63",
+		"Directors": "Luchino Visconti"
+	},
+	{
+		"Title": "Mamma Roma",
+		"Release Date": "08-31-62",
+		"Directors": "Pier Paolo Pasolini"
+	},
+	{
+		"Title": "Sommarnattens leende",
+		"Release Date": "12-26-55",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Une femme est une femme",
+		"Release Date": "06-30-61",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Donzoko",
+		"Release Date": "09-17-57",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Les bas-fonds",
+		"Release Date": "12-11-36",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Bakushû",
+		"Release Date": "10-03-51",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Le carrosse d'or",
+		"Release Date": "12-05-52",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "French Cancan",
+		"Release Date": "04-09-55",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Elena et les hommes",
+		"Release Date": "09-12-56",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Le quai des brumes",
+		"Release Date": "05-17-38",
+		"Directors": "Marcel Carné"
+	},
+	{
+		"Title": "I vitelloni",
+		"Release Date": "08-26-53",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Slacker",
+		"Release Date": "07-27-90",
+		"Directors": "Richard Linklater"
+	},
+	{
+		"Title": "Videodrome",
+		"Release Date": "02-04-83",
+		"Directors": "David Cronenberg"
+	},
+	{
+		"Title": "La battaglia di Algeri",
+		"Release Date": "08-31-66",
+		"Directors": "Gillo Pontecorvo"
+	},
+	{
+		"Title": "Shadows",
+		"Release Date": "11-30-58",
+		"Directors": "John Cassavetes"
+	},
+	{
+		"Title": "Faces",
+		"Release Date": "03-31-68",
+		"Directors": "John Cassavetes"
+	},
+	{
+		"Title": "A Woman Under the Influence",
+		"Release Date": "10-12-74",
+		"Directors": "John Cassavetes"
+	},
+	{
+		"Title": "The Killing of a Chinese Bookie",
+		"Release Date": "02-15-76",
+		"Directors": "John Cassavetes"
+	},
+	{
+		"Title": "Opening Night",
+		"Release Date": "12-25-77",
+		"Directors": "John Cassavetes"
+	},
+	{
+		"Title": "A Constant Forge",
+		"Release Date": "",
+		"Directors": "Charles Kiselyak"
+	},
+	{
+		"Title": "Secret Honor",
+		"Release Date": "09-15-84",
+		"Directors": "Robert Altman"
+	},
+	{
+		"Title": "Tanner '88",
+		"Release Date": "02-15-88",
+		"Directors": ""
+	},
+	{
+		"Title": "À ma soeur!",
+		"Release Date": "02-10-01",
+		"Directors": "Catherine Breillat"
+	},
+	{
+		"Title": "Les yeux sans visage",
+		"Release Date": "01-11-60",
+		"Directors": "Georges Franju"
+	},
+	{
+		"Title": "Fanny och Alexander",
+		"Release Date": "12-17-83",
+		"Directors": ""
+	},
+	{
+		"Title": "Fanny och Alexander",
+		"Release Date": "12-17-82",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Dokument Fanny och Alexander",
+		"Release Date": "09-16-84",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Short Cuts",
+		"Release Date": "09-04-93",
+		"Directors": "Robert Altman"
+	},
+	{
+		"Title": "The King of Kings",
+		"Release Date": "04-19-27",
+		"Directors": "Cecil B. DeMille"
+	},
+	{
+		"Title": "Kagemusha",
+		"Release Date": "04-23-80",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Yajû no seishun",
+		"Release Date": "04-21-63",
+		"Directors": "Seijun Suzuki"
+	},
+	{
+		"Title": "Kenka erejî",
+		"Release Date": "11-09-66",
+		"Directors": "Seijun Suzuki"
+	},
+	{
+		"Title": "Casque d'or",
+		"Release Date": "03-13-52",
+		"Directors": "Jacques Becker"
+	},
+	{
+		"Title": "Touchez pas au grisbi",
+		"Release Date": "03-17-54",
+		"Directors": "Jacques Becker"
+	},
+	{
+		"Title": "La commare secca",
+		"Release Date": "08-27-62",
+		"Directors": "Bernardo Bertolucci"
+	},
+	{
+		"Title": "Thieves' Highway",
+		"Release Date": "09-20-49",
+		"Directors": "Jules Dassin"
+	},
+	{
+		"Title": "Night and the City",
+		"Release Date": "06-09-50",
+		"Directors": "Jules Dassin"
+	},
+	{
+		"Title": "Tout va bien",
+		"Release Date": "04-28-72",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "The River",
+		"Release Date": "08-30-51",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "My Own Private Idaho",
+		"Release Date": "07-20-91",
+		"Directors": "Gus Van Sant"
+	},
+	{
+		"Title": "L'eclisse",
+		"Release Date": "04-12-62",
+		"Directors": "Michelangelo Antonioni"
+	},
+	{
+		"Title": "Der junge Törless",
+		"Release Date": "03-31-66",
+		"Directors": "Volker Schlöndorff"
+	},
+	{
+		"Title": "Dai-bosatsu tôge",
+		"Release Date": "02-25-66",
+		"Directors": "Kihachi Okamoto"
+	},
+	{
+		"Title": "Jules et Jim",
+		"Release Date": "01-23-62",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "Pokolenie",
+		"Release Date": "01-26-55",
+		"Directors": "Andrzej Wajda"
+	},
+	{
+		"Title": "Kanal",
+		"Release Date": "04-20-57",
+		"Directors": "Andrzej Wajda"
+	},
+	{
+		"Title": "Popiól i diament",
+		"Release Date": "10-03-58",
+		"Directors": "Andrzej Wajda"
+	},
+	{
+		"Title": "Divorzio all'italiana",
+		"Release Date": "12-20-61",
+		"Directors": "Pietro Germi"
+	},
+	{
+		"Title": "Burden of Dreams",
+		"Release Date": "05-30-82",
+		"Directors": "Les Blank"
+	},
+	{
+		"Title": "F for Fake",
+		"Release Date": "09-30-73",
+		"Directors": "Gary Graver"
+	},
+	{
+		"Title": "Hoop Dreams",
+		"Release Date": "01-31-94",
+		"Directors": "Steve James"
+	},
+	{
+		"Title": "Le fantôme de la liberté",
+		"Release Date": "09-11-74",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "Heaven Can Wait",
+		"Release Date": "08-05-43",
+		"Directors": "Ernst Lubitsch"
+	},
+	{
+		"Title": "Unfaithfully Yours",
+		"Release Date": "11-05-48",
+		"Directors": "Preston Sturges"
+	},
+	{
+		"Title": "Francesco",
+		"Release Date": " giullare di Dio",
+		"Directors": "08-26-50"
+	},
+	{
+		"Title": "The Browning Version",
+		"Release Date": "03-15-51",
+		"Directors": "Anthony Asquith"
+	},
+	{
+		"Title": "Kurutta kajitsu",
+		"Release Date": "07-12-56",
+		"Directors": "Kô Nakahira"
+	},
+	{
+		"Title": "Le notti bianche",
+		"Release Date": "09-06-57",
+		"Directors": "Luchino Visconti"
+	},
+	{
+		"Title": "Au hasard Balthazar",
+		"Release Date": "05-15-66",
+		"Directors": "Robert Bresson"
+	},
+	{
+		"Title": "Nikutai no mon",
+		"Release Date": "05-31-64",
+		"Directors": "Seijun Suzuki"
+	},
+	{
+		"Title": "Shunpu den",
+		"Release Date": "02-28-65",
+		"Directors": "Seijun Suzuki"
+	},
+	{
+		"Title": "The Life Aquatic with Steve Zissou",
+		"Release Date": "11-20-04",
+		"Directors": "Wes Anderson"
+	},
+	{
+		"Title": "An Angel at My Table",
+		"Release Date": "06-11-90",
+		"Directors": "Jane Campion"
+	},
+	{
+		"Title": "Seppuku",
+		"Release Date": "09-16-62",
+		"Directors": "Masaki Kobayashi"
+	},
+	{
+		"Title": "Bad Timing",
+		"Release Date": "03-31-80",
+		"Directors": "Nicolas Roeg"
+	},
+	{
+		"Title": "The Man Who Fell to Earth",
+		"Release Date": "03-18-76",
+		"Directors": "Nicolas Roeg"
+	},
+	{
+		"Title": "Boudu sauvé des eaux",
+		"Release Date": "11-11-32",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Le samouraï",
+		"Release Date": "10-25-67",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "Naked",
+		"Release Date": "05-14-93",
+		"Directors": "Mike Leigh"
+	},
+	{
+		"Title": "Masculin féminin",
+		"Release Date": "03-22-66",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Ugetsu monogatari",
+		"Release Date": "03-26-53",
+		"Directors": "Kenji Mizoguchi"
+	},
+	{
+		"Title": "Jôi-uchi: Hairyô tsuma shimatsu",
+		"Release Date": "05-27-67",
+		"Directors": "Masaki Kobayashi"
+	},
+	{
+		"Title": "Kedamono no ken",
+		"Release Date": "09-18-65",
+		"Directors": "Hideo Gosha"
+	},
+	{
+		"Title": "Ibun Sarutobi Sasuke",
+		"Release Date": "07-10-65",
+		"Directors": "Masahiro Shinoda"
+	},
+	{
+		"Title": "Kiru",
+		"Release Date": "06-22-68",
+		"Directors": "Kihachi Okamoto"
+	},
+	{
+		"Title": "Pickpocket",
+		"Release Date": "12-16-59",
+		"Directors": "Robert Bresson"
+	},
+	{
+		"Title": "Tirez sur le pianiste",
+		"Release Date": "10-21-60",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "Ran",
+		"Release Date": "05-25-85",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "The Tales of Hoffmann",
+		"Release Date": "04-01-51",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "Jeux interdits",
+		"Release Date": "05-09-52",
+		"Directors": "René Clément"
+	},
+	{
+		"Title": "Warui yatsu hodo yoku nemuru",
+		"Release Date": "09-15-60",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Young Mr. Lincoln",
+		"Release Date": "05-30-39",
+		"Directors": "John Ford"
+	},
+	{
+		"Title": "Jungfrukällan",
+		"Release Date": "02-08-60",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Mr. Arkadin",
+		"Release Date": "08-11-55",
+		"Directors": "Orson Welles"
+	},
+	{
+		"Title": "I bambini ci guardano",
+		"Release Date": "11-03-44",
+		"Directors": "Vittorio De Sica"
+	},
+	{
+		"Title": "La bête humaine",
+		"Release Date": "12-23-38",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Kind Hearts and Coronets",
+		"Release Date": "06-23-49",
+		"Directors": "Robert Hamer"
+	},
+	{
+		"Title": "Metropolitan",
+		"Release Date": "01-20-90",
+		"Directors": "Whit Stillman"
+	},
+	{
+		"Title": "Le souffle au coeur",
+		"Release Date": "04-28-71",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Lacombe Lucien",
+		"Release Date": "01-30-74",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Au revoir les enfants",
+		"Release Date": "08-31-87",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Banshun",
+		"Release Date": "09-13-49",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Viridiana",
+		"Release Date": "05-17-61",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "I pugni in tasca",
+		"Release Date": "07-31-65",
+		"Directors": "Marco Bellocchio"
+	},
+	{
+		"Title": "Harlan County U.S.A.",
+		"Release Date": "10-15-76",
+		"Directors": "Barbara Kopple"
+	},
+	{
+		"Title": "Ascenseur pour l'échafaud",
+		"Release Date": "01-29-58",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Dazed and Confused",
+		"Release Date": "08-31-93",
+		"Directors": "Richard Linklater"
+	},
+	{
+		"Title": "À nos amours",
+		"Release Date": "11-16-83",
+		"Directors": "Maurice Pialat"
+	},
+	{
+		"Title": "Equinox",
+		"Release Date": "05-06-70",
+		"Directors": "Jack Woods"
+	},
+	{
+		"Title": "Yi yi",
+		"Release Date": "05-15-00",
+		"Directors": "Edward Yang"
+	},
+	{
+		"Title": "Koko",
+		"Release Date": " le gorille qui parle",
+		"Directors": "05-19-78"
+	},
+	{
+		"Title": "A Canterbury Tale",
+		"Release Date": "05-11-44",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "La boulangère de Monceau",
+		"Release Date": "12-31-63",
+		"Directors": "Éric Rohmer"
+	},
+	{
+		"Title": "La carrière de Suzanne",
+		"Release Date": "12-31-63",
+		"Directors": "Éric Rohmer"
+	},
+	{
+		"Title": "Ma nuit chez Maud",
+		"Release Date": "05-15-69",
+		"Directors": "Éric Rohmer"
+	},
+	{
+		"Title": "La collectionneuse",
+		"Release Date": "03-02-67",
+		"Directors": "Éric Rohmer"
+	},
+	{
+		"Title": "Le genou de Claire",
+		"Release Date": "12-11-70",
+		"Directors": "Éric Rohmer"
+	},
+	{
+		"Title": "L'amour l'après-midi",
+		"Release Date": "09-01-72",
+		"Directors": "Éric Rohmer"
+	},
+	{
+		"Title": "Kicking and Screaming",
+		"Release Date": "10-04-95",
+		"Directors": "Noah Baumbach"
+	},
+	{
+		"Title": "Sedotta e abbandonata",
+		"Release Date": "01-30-64",
+		"Directors": "Pietro Germi"
+	},
+	{
+		"Title": "El espíritu de la colmena",
+		"Release Date": "09-30-73",
+		"Directors": "Víctor Erice"
+	},
+	{
+		"Title": "Jigoku",
+		"Release Date": "07-30-60",
+		"Directors": "Nobuo Nakagawa"
+	},
+	{
+		"Title": "Sólo con tu pareja",
+		"Release Date": "09-09-91",
+		"Directors": "Alfonso Cuarón"
+	},
+	{
+		"Title": "Clean",
+		"Release Date": " Shaven",
+		"Directors": "09-05-93"
+	},
+	{
+		"Title": "Le mani sulla città",
+		"Release Date": "09-05-63",
+		"Directors": "Francesco Rosi"
+	},
+	{
+		"Title": "Sweetie",
+		"Release Date": "05-17-89",
+		"Directors": "Jane Campion"
+	},
+	{
+		"Title": "The Fallen Idol",
+		"Release Date": "08-31-48",
+		"Directors": "Carol Reed"
+	},
+	{
+		"Title": "Die Büchse der Pandora",
+		"Release Date": "01-30-29",
+		"Directors": "Georg Wilhelm Pabst"
+	},
+	{
+		"Title": "La double vie de Véronique",
+		"Release Date": "05-15-91",
+		"Directors": "Krzysztof Kieslowski"
+	},
+	{
+		"Title": "Symbiopsychotaxiplasm: Take One",
+		"Release Date": "09-24-04",
+		"Directors": "William Greaves"
+	},
+	{
+		"Title": "Symbiopsychotaxiplasm: Take 2 1/2",
+		"Release Date": "01-31-05",
+		"Directors": "William Greaves"
+	},
+	{
+		"Title": "The Beales of Grey Gardens",
+		"Release Date": "07-21-06",
+		"Directors": "David Maysles"
+	},
+	{
+		"Title": "Border Radio",
+		"Release Date": "11-14-87",
+		"Directors": "Dean Lent"
+	},
+	{
+		"Title": "Mouchette",
+		"Release Date": "03-14-67",
+		"Directors": "Robert Bresson"
+	},
+	{
+		"Title": "First Man Into Space",
+		"Release Date": "02-27-59",
+		"Directors": "Robert Day"
+	},
+	{
+		"Title": "The Atomic Submarine",
+		"Release Date": "11-29-59",
+		"Directors": "Spencer Gordon Bennet"
+	},
+	{
+		"Title": "Grip of the Strangler",
+		"Release Date": "07-03-58",
+		"Directors": "Robert Day"
+	},
+	{
+		"Title": "Corridors of Blood",
+		"Release Date": "12-31-58",
+		"Directors": "Robert Day"
+	},
+	{
+		"Title": "The Emperor Jones",
+		"Release Date": "09-19-33",
+		"Directors": "William C. de Mille"
+	},
+	{
+		"Title": "Paul Robeson: Tribute to an Artist",
+		"Release Date": "10-31-79",
+		"Directors": "Saul J. Turell"
+	},
+	{
+		"Title": "Body and Soul",
+		"Release Date": "11-09-25",
+		"Directors": "Oscar Micheaux"
+	},
+	{
+		"Title": "Borderline",
+		"Release Date": "10-13-30",
+		"Directors": "Kenneth MacPherson"
+	},
+	{
+		"Title": "Sanders of the River",
+		"Release Date": "04-04-35",
+		"Directors": "Zoltan Korda"
+	},
+	{
+		"Title": "Jericho",
+		"Release Date": "08-23-37",
+		"Directors": "Thornton Freeland"
+	},
+	{
+		"Title": "The Proud Valley",
+		"Release Date": "04-06-40",
+		"Directors": "Pen Tennyson"
+	},
+	{
+		"Title": "Native Land",
+		"Release Date": "05-11-42",
+		"Directors": "Paul Strand"
+	},
+	{
+		"Title": "Ladri di biciclette",
+		"Release Date": "11-24-48",
+		"Directors": "Vittorio De Sica"
+	},
+	{
+		"Title": "Green for Danger",
+		"Release Date": "12-07-46",
+		"Directors": "Sidney Gilliat"
+	},
+	{
+		"Title": "49th Parallel",
+		"Release Date": "10-08-41",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "Onna ga kaidan wo agaru toki",
+		"Release Date": "01-15-60",
+		"Directors": "Mikio Naruse"
+	},
+	{
+		"Title": "Nobi",
+		"Release Date": "11-03-59",
+		"Directors": "Kon Ichikawa"
+	},
+	{
+		"Title": "Biruma no tategoto",
+		"Release Date": "01-21-56",
+		"Directors": "Kon Ichikawa"
+	},
+	{
+		"Title": "The Naked City",
+		"Release Date": "03-03-48",
+		"Directors": "Jules Dassin"
+	},
+	{
+		"Title": "La haine",
+		"Release Date": "05-27-95",
+		"Directors": "Mathieu Kassovitz"
+	},
+	{
+		"Title": "Overlord",
+		"Release Date": "07-31-75",
+		"Directors": "Stuart Cooper"
+	},
+	{
+		"Title": "Brute Force",
+		"Release Date": "07-10-47",
+		"Directors": "Jules Dassin"
+	},
+	{
+		"Title": "Fukushû suru wa ware ni ari",
+		"Release Date": "04-21-79",
+		"Directors": "Shôhei Imamura"
+	},
+	{
+		"Title": "L'armée des ombres",
+		"Release Date": "09-12-69",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "Sanshô dayû",
+		"Release Date": "03-31-54",
+		"Directors": "Kenji Mizoguchi"
+	},
+	{
+		"Title": "La jetée",
+		"Release Date": "02-16-62",
+		"Directors": "Chris Marker"
+	},
+	{
+		"Title": "Sans soleil",
+		"Release Date": "02-23-83",
+		"Directors": "Chris Marker"
+	},
+	{
+		"Title": "Le vieil homme et l'enfant",
+		"Release Date": "03-11-67",
+		"Directors": "Claude Berri"
+	},
+	{
+		"Title": "W.R. - Misterije organizma",
+		"Release Date": "05-10-71",
+		"Directors": "Dusan Makavejev"
+	},
+	{
+		"Title": "Sweet Movie",
+		"Release Date": "05-31-74",
+		"Directors": "Dusan Makavejev"
+	},
+	{
+		"Title": "If....",
+		"Release Date": "12-19-68",
+		"Directors": "Lindsay Anderson"
+	},
+	{
+		"Title": "Otoshiana",
+		"Release Date": "07-01-62",
+		"Directors": "Hiroshi Teshigahara"
+	},
+	{
+		"Title": "Suna no onna",
+		"Release Date": "02-15-64",
+		"Directors": "Hiroshi Teshigahara"
+	},
+	{
+		"Title": "Tanin no kao",
+		"Release Date": "07-15-66",
+		"Directors": "Hiroshi Teshigahara"
+	},
+	{
+		"Title": "Ace in the Hole",
+		"Release Date": "06-14-51",
+		"Directors": "Billy Wilder"
+	},
+	{
+		"Title": "Ivanovo detstvo",
+		"Release Date": "04-06-62",
+		"Directors": "Eduard Abalov"
+	},
+	{
+		"Title": "Les enfants terribles",
+		"Release Date": "03-29-50",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "House of Games",
+		"Release Date": "09-04-87",
+		"Directors": "David Mamet"
+	},
+	{
+		"Title": "Stranger Than Paradise",
+		"Release Date": "05-16-84",
+		"Directors": "Jim Jarmusch"
+	},
+	{
+		"Title": "Night on Earth",
+		"Release Date": "10-04-91",
+		"Directors": "Jim Jarmusch"
+	},
+	{
+		"Title": "La voie lactée",
+		"Release Date": "02-28-69",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "Cría cuervos",
+		"Release Date": "01-26-76",
+		"Directors": "Carlos Saura"
+	},
+	{
+		"Title": "Robinson Crusoe on Mars",
+		"Release Date": "06-30-64",
+		"Directors": "Byron Haskin"
+	},
+	{
+		"Title": "Die 3 Groschen-Oper",
+		"Release Date": "02-19-31",
+		"Directors": "Georg Wilhelm Pabst"
+	},
+	{
+		"Title": "Mala Noche",
+		"Release Date": "02-28-86",
+		"Directors": "Gus Van Sant"
+	},
+	{
+		"Title": "À bout de souffle",
+		"Release Date": "03-16-60",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Days of Heaven",
+		"Release Date": "09-13-78",
+		"Directors": "Terrence Malick"
+	},
+	{
+		"Title": "Under the Volcano",
+		"Release Date": "05-18-84",
+		"Directors": "John Huston"
+	},
+	{
+		"Title": "Berlin Alexanderplatz",
+		"Release Date": "08-28-80",
+		"Directors": ""
+	},
+	{
+		"Title": "Gycklarnas afton",
+		"Release Date": "09-14-53",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Yoidore tenshi",
+		"Release Date": "04-27-48",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Two-Lane Blacktop",
+		"Release Date": "07-07-71",
+		"Directors": "Monte Hellman"
+	},
+	{
+		"Title": "The Naked Prey",
+		"Release Date": "06-03-65",
+		"Directors": "Cornel Wilde"
+	},
+	{
+		"Title": "Fröken Julie",
+		"Release Date": "04-06-51",
+		"Directors": "Alf Sjöberg"
+	},
+	{
+		"Title": "This Sporting Life",
+		"Release Date": "02-07-63",
+		"Directors": "Lindsay Anderson"
+	},
+	{
+		"Title": "La Pointe-Courte",
+		"Release Date": "05-31-55",
+		"Directors": "Agnès Varda"
+	},
+	{
+		"Title": "Le bonheur",
+		"Release Date": "02-10-65",
+		"Directors": "Agnès Varda"
+	},
+	{
+		"Title": "Pierrot le fou",
+		"Release Date": "08-29-65",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "The Last Emperor",
+		"Release Date": "10-04-87",
+		"Directors": "Bernardo Bertolucci"
+	},
+	{
+		"Title": "Walker",
+		"Release Date": "12-04-87",
+		"Directors": "Alex Cox"
+	},
+	{
+		"Title": "Mafioso",
+		"Release Date": "10-25-62",
+		"Directors": "Alberto Lattuada"
+	},
+	{
+		"Title": "Antonio Gaudí",
+		"Release Date": "05-25-84",
+		"Directors": "Hiroshi Teshigahara"
+	},
+	{
+		"Title": "The Ice Storm",
+		"Release Date": "05-12-97",
+		"Directors": "Ang Lee"
+	},
+	{
+		"Title": "Muerte de un ciclista",
+		"Release Date": "05-09-55",
+		"Directors": "Juan Antonio Bardem"
+	},
+	{
+		"Title": "Blast of Silence",
+		"Release Date": "03-20-61",
+		"Directors": "Allen Baron"
+	},
+	{
+		"Title": "Les amants",
+		"Release Date": "09-06-58",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Le feu follet",
+		"Release Date": "09-02-63",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "The Thief of Bagdad",
+		"Release Date": "10-14-40",
+		"Directors": "Alexander Korda"
+	},
+	{
+		"Title": "Mishima: A Life in Four Chapters",
+		"Release Date": "05-15-85",
+		"Directors": "Paul Schrader"
+	},
+	{
+		"Title": "Yûkoku",
+		"Release Date": "04-12-66",
+		"Directors": "Masaki Dômoto"
+	},
+	{
+		"Title": "Classe tous risques",
+		"Release Date": "03-23-60",
+		"Directors": "Claude Sautet"
+	},
+	{
+		"Title": "The Furies",
+		"Release Date": "07-21-50",
+		"Directors": "Anthony Mann"
+	},
+	{
+		"Title": "Pred dozhdot",
+		"Release Date": "09-01-94",
+		"Directors": "Milcho Manchevski"
+	},
+	{
+		"Title": "Vampyr",
+		"Release Date": "05-06-32",
+		"Directors": "Carl Theodor Dreyer"
+	},
+	{
+		"Title": "Mon oncle Antoine",
+		"Release Date": "07-31-71",
+		"Directors": "Claude Jutra"
+	},
+	{
+		"Title": "Trafic",
+		"Release Date": "04-16-71",
+		"Directors": "Jacques Tati"
+	},
+	{
+		"Title": "Brand Upon the Brain! A Remembrance in 12 Chapters",
+		"Release Date": "09-08-06",
+		"Directors": "Guy Maddin"
+	},
+	{
+		"Title": "The Small Back Room",
+		"Release Date": "01-21-49",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "Nijûshi no hitomi",
+		"Release Date": "09-15-54",
+		"Directors": "Keisuke Kinoshita"
+	},
+	{
+		"Title": "La ronde",
+		"Release Date": "08-27-50",
+		"Directors": "Max Ophüls"
+	},
+	{
+		"Title": "Le plaisir",
+		"Release Date": "02-14-52",
+		"Directors": "Max Ophüls"
+	},
+	{
+		"Title": "Madame de...",
+		"Release Date": "09-16-53",
+		"Directors": "Max Ophüls"
+	},
+	{
+		"Title": "Sanma no aji",
+		"Release Date": "11-18-62",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Le doulos",
+		"Release Date": "01-18-63",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "Le deuxième souffle",
+		"Release Date": "11-01-66",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "Missing",
+		"Release Date": "02-12-82",
+		"Directors": "Costa-Gavras"
+	},
+	{
+		"Title": "Bottle Rocket",
+		"Release Date": "02-21-96",
+		"Directors": "Wes Anderson"
+	},
+	{
+		"Title": "Fanfan la Tulipe",
+		"Release Date": "03-30-52",
+		"Directors": "Christian-Jaque"
+	},
+	{
+		"Title": "The Spy Who Came in from the Cold",
+		"Release Date": "05-26-65",
+		"Directors": "Martin Ritt"
+	},
+	{
+		"Title": "Chung Hing sam lam",
+		"Release Date": "07-14-94",
+		"Directors": "Kar-Wai Wong"
+	},
+	{
+		"Title": "Europa",
+		"Release Date": "05-12-91",
+		"Directors": "Lars von Trier"
+	},
+	{
+		"Title": "White Dog",
+		"Release Date": "07-07-82",
+		"Directors": "Samuel Fuller"
+	},
+	{
+		"Title": "La prise de pouvoir par Louis XIV",
+		"Release Date": "09-10-66",
+		"Directors": "Roberto Rossellini"
+	},
+	{
+		"Title": "Magnificent Obsession",
+		"Release Date": "06-30-54",
+		"Directors": "Douglas Sirk"
+	},
+	{
+		"Title": "El Norte",
+		"Release Date": "10-11-83",
+		"Directors": "Gregory Nava"
+	},
+	{
+		"Title": "El ángel exterminador",
+		"Release Date": "05-16-62",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "Simón del desierto",
+		"Release Date": "08-27-65",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "Hobson's Choice",
+		"Release Date": "02-26-54",
+		"Directors": "David Lean"
+	},
+	{
+		"Title": "Le dernier métro",
+		"Release Date": "09-17-80",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "Il generale Della Rovere",
+		"Release Date": "08-30-59",
+		"Directors": "Roberto Rossellini"
+	},
+	{
+		"Title": "Danton",
+		"Release Date": "01-12-83",
+		"Directors": "Andrzej Wajda"
+	},
+	{
+		"Title": "Dodesukaden",
+		"Release Date": "10-27-70",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Ai no korîda",
+		"Release Date": "02-29-76",
+		"Directors": "Nagisa Ôshima"
+	},
+	{
+		"Title": "Ai no bôrei",
+		"Release Date": "05-19-78",
+		"Directors": "Nagisa Ôshima"
+	},
+	{
+		"Title": "The Hit",
+		"Release Date": "06-30-84",
+		"Directors": "Stephen Frears"
+	},
+	{
+		"Title": "Wise Blood",
+		"Release Date": "05-24-79",
+		"Directors": "John Huston"
+	},
+	{
+		"Title": "Buta to gunkan",
+		"Release Date": "01-21-61",
+		"Directors": "Shôhei Imamura"
+	},
+	{
+		"Title": "Nippon konchûki",
+		"Release Date": "11-16-63",
+		"Directors": "Shôhei Imamura"
+	},
+	{
+		"Title": "Akai satsui",
+		"Release Date": "06-28-64",
+		"Directors": "Shôhei Imamura"
+	},
+	{
+		"Title": "The Friends of Eddie Coyle",
+		"Release Date": "06-26-73",
+		"Directors": "Peter Yates"
+	},
+	{
+		"Title": "The Curious Case of Benjamin Button",
+		"Release Date": "12-10-08",
+		"Directors": "David Fincher"
+	},
+	{
+		"Title": "Bergman och filmen",
+		"Release Date": " Bergman och teatern",
+		"Directors": " Bergman och Fårö"
+	},
+	{
+		"Title": "L'année dernière à Marienbad",
+		"Release Date": "08-29-61",
+		"Directors": "Alain Resnais"
+	},
+	{
+		"Title": "My Dinner with Andre",
+		"Release Date": "10-08-81",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Ningen no jôken",
+		"Release Date": "01-15-59",
+		"Directors": "Masaki Kobayashi"
+	},
+	{
+		"Title": "Ningen no jôken",
+		"Release Date": "11-20-59",
+		"Directors": "Masaki Kobayashi"
+	},
+	{
+		"Title": "Ningen no jôken",
+		"Release Date": "01-28-61",
+		"Directors": "Masaki Kobayashi"
+	},
+	{
+		"Title": "Made in U.S.A",
+		"Release Date": "12-03-66",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "2 ou 3 choses que je sais d'elle",
+		"Release Date": "03-17-67",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Repulsion",
+		"Release Date": "05-19-65",
+		"Directors": "Roman Polanski"
+	},
+	{
+		"Title": "Jeanne Dielman",
+		"Release Date": " 23",
+		"Directors": " quai du commerce"
+	},
+	{
+		"Title": "The Last Days of Disco",
+		"Release Date": "05-29-98",
+		"Directors": "Whit Stillman"
+	},
+	{
+		"Title": "Homicide",
+		"Release Date": "05-31-91",
+		"Directors": "David Mamet"
+	},
+	{
+		"Title": "That Hamilton Woman",
+		"Release Date": "04-03-41",
+		"Directors": "Alexander Korda"
+	},
+	{
+		"Title": "Howards End",
+		"Release Date": "02-27-92",
+		"Directors": "James Ivory"
+	},
+	{
+		"Title": "Monsoon Wedding",
+		"Release Date": "08-31-01",
+		"Directors": "Mira Nair"
+	},
+	{
+		"Title": "Der Himmel über Berlin",
+		"Release Date": "05-17-87",
+		"Directors": "Wim Wenders"
+	},
+	{
+		"Title": "Z",
+		"Release Date": "02-26-69",
+		"Directors": "Costa-Gavras"
+	},
+	{
+		"Title": "Un conte de Noël",
+		"Release Date": "05-16-08",
+		"Directors": "Arnaud Desplechin"
+	},
+	{
+		"Title": "Gomorra",
+		"Release Date": "05-16-08",
+		"Directors": "Matteo Garrone"
+	},
+	{
+		"Title": "Downhill Racer",
+		"Release Date": "10-28-69",
+		"Directors": "Michael Ritchie"
+	},
+	{
+		"Title": "Che: Part One",
+		"Release Date": "05-21-08",
+		"Directors": "Steven Soderbergh"
+	},
+	{
+		"Title": "Che: Part Two",
+		"Release Date": "05-21-08",
+		"Directors": "Steven Soderbergh"
+	},
+	{
+		"Title": "Roma città aperta",
+		"Release Date": "09-24-45",
+		"Directors": "Roberto Rossellini"
+	},
+	{
+		"Title": "Paisà",
+		"Release Date": "09-18-46",
+		"Directors": "Roberto Rossellini"
+	},
+	{
+		"Title": "Germania anno zero",
+		"Release Date": "07-10-48",
+		"Directors": "Roberto Rossellini"
+	},
+	{
+		"Title": "Paris",
+		"Release Date": " Texas",
+		"Directors": "05-19-84"
+	},
+	{
+		"Title": "Revanche",
+		"Release Date": "02-10-08",
+		"Directors": "Götz Spielmann"
+	},
+	{
+		"Title": "Lola Montès",
+		"Release Date": "12-23-55",
+		"Directors": "Max Ophüls"
+	},
+	{
+		"Title": "Hunger",
+		"Release Date": "05-15-08",
+		"Directors": "Steve McQueen"
+	},
+	{
+		"Title": "Make Way for Tomorrow",
+		"Release Date": "04-30-37",
+		"Directors": "Leo McCarey"
+	},
+	{
+		"Title": "Dillinger è morto",
+		"Release Date": "01-23-69",
+		"Directors": "Marco Ferreri"
+	},
+	{
+		"Title": "Bigger Than Life",
+		"Release Date": "08-02-56",
+		"Directors": "Nicholas Ray"
+	},
+	{
+		"Title": "Ossos",
+		"Release Date": "09-02-97",
+		"Directors": "Pedro Costa"
+	},
+	{
+		"Title": "No Quarto da Vanda",
+		"Release Date": "08-08-00",
+		"Directors": "Pedro Costa"
+	},
+	{
+		"Title": "Juventude Em Marcha",
+		"Release Date": "05-26-06",
+		"Directors": "Pedro Costa"
+	},
+	{
+		"Title": "Vivre sa vie: Film en douze tableaux",
+		"Release Date": "08-28-62",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "L'heure d'été",
+		"Release Date": "03-03-08",
+		"Directors": "Olivier Assayas"
+	},
+	{
+		"Title": "Ride with the Devil",
+		"Release Date": "09-09-99",
+		"Directors": "Ang Lee"
+	},
+	{
+		"Title": "The Fugitive Kind",
+		"Release Date": "04-13-60",
+		"Directors": "Sidney Lumet"
+	},
+	{
+		"Title": "Stagecoach",
+		"Release Date": "02-10-39",
+		"Directors": "John Ford"
+	},
+	{
+		"Title": "Nema-ye Nazdik",
+		"Release Date": "02-01-90",
+		"Directors": "Abbas Kiarostami"
+	},
+	{
+		"Title": "Maria Larssons eviga ögonblick",
+		"Release Date": "09-05-08",
+		"Directors": "Jan Troell"
+	},
+	{
+		"Title": "Mystery Train",
+		"Release Date": "05-14-89",
+		"Directors": "Jim Jarmusch"
+	},
+	{
+		"Title": "Il deserto rosso",
+		"Release Date": "09-07-64",
+		"Directors": "Michelangelo Antonioni"
+	},
+	{
+		"Title": "Night Train to Munich",
+		"Release Date": "08-31-40",
+		"Directors": "Carol Reed"
+	},
+	{
+		"Title": "Hitori musuko",
+		"Release Date": "09-15-36",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "Chichi ariki",
+		"Release Date": "04-01-42",
+		"Directors": "Yasujirô Ozu"
+	},
+	{
+		"Title": "La graine et le mulet",
+		"Release Date": "09-03-07",
+		"Directors": "Abdellatif Kechiche"
+	},
+	{
+		"Title": "Underworld",
+		"Release Date": "08-20-27",
+		"Directors": "Arthur Rosson"
+	},
+	{
+		"Title": "The Last Command",
+		"Release Date": "01-21-28",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "The Docks of New York",
+		"Release Date": "09-15-28",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "Louie Bluie",
+		"Release Date": "10-31-85",
+		"Directors": "Terry Zwigoff"
+	},
+	{
+		"Title": "Crumb",
+		"Release Date": "09-10-94",
+		"Directors": "Terry Zwigoff"
+	},
+	{
+		"Title": "L'enfance nue",
+		"Release Date": "08-27-68",
+		"Directors": "Maurice Pialat"
+	},
+	{
+		"Title": "Merry Christmas Mr. Lawrence",
+		"Release Date": "05-11-83",
+		"Directors": "Nagisa Ôshima"
+	},
+	{
+		"Title": "The Thin Red Line",
+		"Release Date": "12-22-98",
+		"Directors": "Terrence Malick"
+	},
+	{
+		"Title": "Ansiktet",
+		"Release Date": "12-26-58",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Paths of Glory",
+		"Release Date": "11-01-57",
+		"Directors": "Stanley Kubrick"
+	},
+	{
+		"Title": "Hausu",
+		"Release Date": "07-30-77",
+		"Directors": "Nobuhiko Ôbayashi"
+	},
+	{
+		"Title": "The Darjeeling Limited",
+		"Release Date": "08-31-07",
+		"Directors": "Wes Anderson"
+	},
+	{
+		"Title": "The Night of the Hunter",
+		"Release Date": "07-26-55",
+		"Directors": "Charles Laughton"
+	},
+	{
+		"Title": "Antichrist",
+		"Release Date": "05-18-09",
+		"Directors": "Lars von Trier"
+	},
+	{
+		"Title": "Modern Times",
+		"Release Date": "02-05-36",
+		"Directors": "Charles Chaplin"
+	},
+	{
+		"Title": "Head",
+		"Release Date": "11-06-68",
+		"Directors": "Bob Rafelson"
+	},
+	{
+		"Title": "Easy Rider",
+		"Release Date": "05-12-69",
+		"Directors": "Dennis Hopper"
+	},
+	{
+		"Title": "Five Easy Pieces",
+		"Release Date": "09-11-70",
+		"Directors": "Bob Rafelson"
+	},
+	{
+		"Title": "Drive",
+		"Release Date": " He Said",
+		"Directors": "05-24-71"
+	},
+	{
+		"Title": "A Safe Place",
+		"Release Date": "10-15-71",
+		"Directors": "Henry Jaglom"
+	},
+	{
+		"Title": "The Last Picture Show",
+		"Release Date": "09-28-71",
+		"Directors": "Peter Bogdanovich"
+	},
+	{
+		"Title": "The King of Marvin Gardens",
+		"Release Date": "10-12-72",
+		"Directors": "Bob Rafelson"
+	},
+	{
+		"Title": "Cronos",
+		"Release Date": "05-17-93",
+		"Directors": "Guillermo del Toro"
+	},
+	{
+		"Title": "Broadcast News",
+		"Release Date": "12-13-87",
+		"Directors": "James L. Brooks"
+	},
+	{
+		"Title": "Fish Tank",
+		"Release Date": "05-14-09",
+		"Directors": "Andrea Arnold"
+	},
+	{
+		"Title": "Aruitemo aruitemo",
+		"Release Date": "06-28-08",
+		"Directors": "Hirokazu Koreeda"
+	},
+	{
+		"Title": "Sweet Smell of Success",
+		"Release Date": "06-27-57",
+		"Directors": "Alexander Mackendrick"
+	},
+	{
+		"Title": "Senso",
+		"Release Date": "09-02-54",
+		"Directors": "Luchino Visconti"
+	},
+	{
+		"Title": "The Times of Harvey Milk",
+		"Release Date": "10-07-84",
+		"Directors": "Rob Epstein"
+	},
+	{
+		"Title": "Topsy-Turvy",
+		"Release Date": "09-03-99",
+		"Directors": "Mike Leigh"
+	},
+	{
+		"Title": "The Mikado",
+		"Release Date": "01-12-39",
+		"Directors": "Victor Schertzinger"
+	},
+	{
+		"Title": "White Material",
+		"Release Date": "09-06-09",
+		"Directors": "Claire Denis"
+	},
+	{
+		"Title": "Kes",
+		"Release Date": "11-18-69",
+		"Directors": "Ken Loach"
+	},
+	{
+		"Title": "Blow Out",
+		"Release Date": "07-07-81",
+		"Directors": "Brian De Palma"
+	},
+	{
+		"Title": "Something Wild",
+		"Release Date": "11-07-86",
+		"Directors": "Jonathan Demme"
+	},
+	{
+		"Title": "Kawaita hana",
+		"Release Date": "03-01-64",
+		"Directors": "Masahiro Shinoda"
+	},
+	{
+		"Title": "The Great Dictator",
+		"Release Date": "10-15-40",
+		"Directors": "Charles Chaplin"
+	},
+	{
+		"Title": "Insignificance",
+		"Release Date": "05-11-85",
+		"Directors": "Nicolas Roeg"
+	},
+	{
+		"Title": "Sasameyuki",
+		"Release Date": "05-21-83",
+		"Directors": "Kon Ichikawa"
+	},
+	{
+		"Title": "Kiss Me Deadly",
+		"Release Date": "05-08-55",
+		"Directors": "Robert Aldrich"
+	},
+	{
+		"Title": "Menschen am Sonntag",
+		"Release Date": "02-04-30",
+		"Directors": "Robert Siodmak"
+	},
+	{
+		"Title": "Zazie dans le métro",
+		"Release Date": "10-28-60",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Black Moon",
+		"Release Date": "09-24-75",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Léon Morin",
+		"Release Date": " prêtre",
+		"Directors": "09-03-61"
+	},
+	{
+		"Title": "Jalsaghar",
+		"Release Date": "10-10-58",
+		"Directors": "Satyajit Ray"
+	},
+	{
+		"Title": "Life During Wartime",
+		"Release Date": "09-03-09",
+		"Directors": "Todd Solondz"
+	},
+	{
+		"Title": "The Killing",
+		"Release Date": "05-19-56",
+		"Directors": "Stanley Kubrick"
+	},
+	{
+		"Title": "Milyang",
+		"Release Date": "05-17-07",
+		"Directors": "Chang-dong Lee"
+	},
+	{
+		"Title": "Cul-de-sac",
+		"Release Date": "06-02-66",
+		"Directors": "Roman Polanski"
+	},
+	{
+		"Title": "À propos de Nice",
+		"Release Date": "05-28-30",
+		"Directors": "Jean Vigo"
+	},
+	{
+		"Title": "Zéro de conduite: Jeunes diables au collège",
+		"Release Date": "04-07-33",
+		"Directors": "Jean Vigo"
+	},
+	{
+		"Title": "L'Atalante",
+		"Release Date": "04-24-34",
+		"Directors": "Jean Vigo"
+	},
+	{
+		"Title": "Körkarlen",
+		"Release Date": "01-01-21",
+		"Directors": "Victor Sjöström"
+	},
+	{
+		"Title": "Le beau Serge",
+		"Release Date": "06-06-58",
+		"Directors": "Claude Chabrol"
+	},
+	{
+		"Title": "Les cousins",
+		"Release Date": "03-11-59",
+		"Directors": "Claude Chabrol"
+	},
+	{
+		"Title": "Carlos",
+		"Release Date": "05-19-10",
+		"Directors": ""
+	},
+	{
+		"Title": "The Four Feathers",
+		"Release Date": "04-18-39",
+		"Directors": "Zoltan Korda"
+	},
+	{
+		"Title": "Yabu no naka no kuroneko",
+		"Release Date": "02-24-68",
+		"Directors": "Kaneto Shindô"
+	},
+	{
+		"Title": "Identificazione di una donna",
+		"Release Date": "05-23-82",
+		"Directors": "Michelangelo Antonioni"
+	},
+	{
+		"Title": "Island of Lost Souls",
+		"Release Date": "12-31-32",
+		"Directors": "Erle C. Kenton"
+	},
+	{
+		"Title": "Trois couleurs: Bleu",
+		"Release Date": "09-03-93",
+		"Directors": "Krzysztof Kieslowski"
+	},
+	{
+		"Title": "Trois couleurs: Blanc",
+		"Release Date": "01-26-94",
+		"Directors": "Krzysztof Kieslowski"
+	},
+	{
+		"Title": "Trois couleurs: Rouge",
+		"Release Date": "05-16-94",
+		"Directors": "Krzysztof Kieslowski"
+	},
+	{
+		"Title": "12 Angry Men",
+		"Release Date": "04-10-57",
+		"Directors": "Sidney Lumet"
+	},
+	{
+		"Title": "Design for Living",
+		"Release Date": "11-22-33",
+		"Directors": "Ernst Lubitsch"
+	},
+	{
+		"Title": "Belle de jour",
+		"Release Date": "05-24-67",
+		"Directors": "Luis Buñuel"
+	},
+	{
+		"Title": "Gojira",
+		"Release Date": "11-03-54",
+		"Directors": "Ishirô Honda"
+	},
+	{
+		"Title": "Il momento della verità",
+		"Release Date": "03-03-65",
+		"Directors": "Francesco Rosi"
+	},
+	{
+		"Title": "Sanbiki no samurai",
+		"Release Date": "05-13-64",
+		"Directors": "Hideo Gosha"
+	},
+	{
+		"Title": "Tiny Furniture",
+		"Release Date": "03-15-10",
+		"Directors": "Lena Dunham"
+	},
+	{
+		"Title": "Welt am Draht",
+		"Release Date": "10-14-73",
+		"Directors": ""
+	},
+	{
+		"Title": "Vanya on 42nd Street",
+		"Release Date": "09-10-94",
+		"Directors": "Louis Malle"
+	},
+	{
+		"Title": "Anatomy of a Murder",
+		"Release Date": "07-01-59",
+		"Directors": "Otto Preminger"
+	},
+	{
+		"Title": "Neotpravlennoe pismo",
+		"Release Date": "06-27-60",
+		"Directors": "Mikhail Kalatozov"
+	},
+	{
+		"Title": "The War Room",
+		"Release Date": "09-14-93",
+		"Directors": "D.A. Pennebaker"
+	},
+	{
+		"Title": "In Which We Serve",
+		"Release Date": "09-17-42",
+		"Directors": "Noël Coward"
+	},
+	{
+		"Title": "This Happy Breed",
+		"Release Date": "05-28-44",
+		"Directors": "David Lean"
+	},
+	{
+		"Title": "Blithe Spirit",
+		"Release Date": "04-05-45",
+		"Directors": "David Lean"
+	},
+	{
+		"Title": "Harold and Maude",
+		"Release Date": "12-20-71",
+		"Directors": "Hal Ashby"
+	},
+	{
+		"Title": "Alambrista!",
+		"Release Date": "10-16-77",
+		"Directors": "Robert M. Young"
+	},
+	{
+		"Title": "I compagni",
+		"Release Date": "10-25-63",
+		"Directors": "Mario Monicelli"
+	},
+	{
+		"Title": "Being John Malkovich",
+		"Release Date": "09-02-99",
+		"Directors": "Spike Jonze"
+	},
+	{
+		"Title": "Copie conforme",
+		"Release Date": "05-18-10",
+		"Directors": "Abbas Kiarostami"
+	},
+	{
+		"Title": "Sommarlek",
+		"Release Date": "10-01-51",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "Sommaren med Monika",
+		"Release Date": "02-09-53",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "The Gold Rush",
+		"Release Date": "06-26-25",
+		"Directors": "Charles Chaplin"
+	},
+	{
+		"Title": "Shallow Grave",
+		"Release Date": "12-22-94",
+		"Directors": "Danny Boyle"
+	},
+	{
+		"Title": "And Everything Is Going Fine",
+		"Release Date": "01-31-10",
+		"Directors": "Steven Soderbergh"
+	},
+	{
+		"Title": "Gray's Anatomy",
+		"Release Date": "09-11-96",
+		"Directors": "Steven Soderbergh"
+	},
+	{
+		"Title": "Le Havre",
+		"Release Date": "05-17-11",
+		"Directors": "Aki Kaurismäki"
+	},
+	{
+		"Title": "La promesse",
+		"Release Date": "09-07-96",
+		"Directors": "Luc Dardenne"
+	},
+	{
+		"Title": "Rosetta",
+		"Release Date": "05-22-99",
+		"Directors": "Luc Dardenne"
+	},
+	{
+		"Title": "Weekend",
+		"Release Date": "03-11-11",
+		"Directors": "Andrew Haigh"
+	},
+	{
+		"Title": "Lonesome",
+		"Release Date": "06-20-28",
+		"Directors": "Pál Fejös"
+	},
+	{
+		"Title": "Quadrophenia",
+		"Release Date": "05-14-79",
+		"Directors": "Franc Roddam"
+	},
+	{
+		"Title": "Eating Raoul",
+		"Release Date": "03-24-82",
+		"Directors": "Paul Bartel"
+	},
+	{
+		"Title": "Les visiteurs du soir",
+		"Release Date": "12-05-42",
+		"Directors": "Marcel Carné"
+	},
+	{
+		"Title": "The Game",
+		"Release Date": "09-03-97",
+		"Directors": "David Fincher"
+	},
+	{
+		"Title": "The Forgiveness of Blood",
+		"Release Date": "02-18-11",
+		"Directors": "Joshua Marston"
+	},
+	{
+		"Title": "Sunday Bloody Sunday",
+		"Release Date": "07-01-71",
+		"Directors": "John Schlesinger"
+	},
+	{
+		"Title": "Rosemary's Baby",
+		"Release Date": "06-12-68",
+		"Directors": "Roman Polanski"
+	},
+	{
+		"Title": "Il Decameron",
+		"Release Date": "06-28-71",
+		"Directors": "Pier Paolo Pasolini"
+	},
+	{
+		"Title": "I racconti di Canterbury",
+		"Release Date": "07-02-72",
+		"Directors": "Pier Paolo Pasolini"
+	},
+	{
+		"Title": "Il fiore delle mille e una notte",
+		"Release Date": "05-20-74",
+		"Directors": "Pier Paolo Pasolini"
+	},
+	{
+		"Title": "Week End",
+		"Release Date": "12-29-67",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Heaven's Gate",
+		"Release Date": "11-18-80",
+		"Directors": "Michael Cimino"
+	},
+	{
+		"Title": "Plein soleil",
+		"Release Date": "03-10-60",
+		"Directors": "René Clément"
+	},
+	{
+		"Title": "Following",
+		"Release Date": "09-12-98",
+		"Directors": "Christopher Nolan"
+	},
+	{
+		"Title": "Koyaanisqatsi",
+		"Release Date": "04-27-82",
+		"Directors": "Godfrey Reggio"
+	},
+	{
+		"Title": "Powaqqatsi",
+		"Release Date": "02-29-88",
+		"Directors": "Godfrey Reggio"
+	},
+	{
+		"Title": "Naqoyqatsi",
+		"Release Date": "09-02-02",
+		"Directors": "Godfrey Reggio"
+	},
+	{
+		"Title": "The Man Who Knew Too Much",
+		"Release Date": "12-09-34",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "Pina",
+		"Release Date": "02-13-11",
+		"Directors": "Wim Wenders"
+	},
+	{
+		"Title": "Narayama bushikô",
+		"Release Date": "06-01-58",
+		"Directors": "Keisuke Kinoshita"
+	},
+	{
+		"Title": "Le gamin au vélo",
+		"Release Date": "05-15-11",
+		"Directors": "Luc Dardenne"
+	},
+	{
+		"Title": "On the Waterfront",
+		"Release Date": "06-22-54",
+		"Directors": "Elia Kazan"
+	},
+	{
+		"Title": "Chronique d'un été (Paris 1960)",
+		"Release Date": "05-31-61",
+		"Directors": "Jean Rouch"
+	},
+	{
+		"Title": "Ministry of Fear",
+		"Release Date": "05-19-44",
+		"Directors": "Fritz Lang"
+	},
+	{
+		"Title": "Un condamné à mort s'est échappé ou Le vent souffle où il veut",
+		"Release Date": "11-11-56",
+		"Directors": "Robert Bresson"
+	},
+	{
+		"Title": "Badlands",
+		"Release Date": "10-13-73",
+		"Directors": "Terrence Malick"
+	},
+	{
+		"Title": "Monsieur Verdoux",
+		"Release Date": "04-11-47",
+		"Directors": "Charles Chaplin"
+	},
+	{
+		"Title": "Jigokumon",
+		"Release Date": "10-31-53",
+		"Directors": "Teinosuke Kinugasa"
+	},
+	{
+		"Title": "Repo Man",
+		"Release Date": "02-29-84",
+		"Directors": "Alex Cox"
+	},
+	{
+		"Title": "Le soupirant",
+		"Release Date": "11-12-62",
+		"Directors": "Pierre Étaix"
+	},
+	{
+		"Title": "Yoyo",
+		"Release Date": "02-19-65",
+		"Directors": "Pierre Étaix"
+	},
+	{
+		"Title": "Tant qu'on a la santé",
+		"Release Date": "02-25-66",
+		"Directors": "Pierre Étaix"
+	},
+	{
+		"Title": "Le grand amour",
+		"Release Date": "03-20-69",
+		"Directors": "Pierre Étaix"
+	},
+	{
+		"Title": "Pays de cocagne",
+		"Release Date": "02-28-71",
+		"Directors": "Pierre Étaix"
+	},
+	{
+		"Title": "Jubal",
+		"Release Date": "02-25-56",
+		"Directors": "Delmer Daves"
+	},
+	{
+		"Title": "3:10 to Yuma",
+		"Release Date": "08-07-57",
+		"Directors": "Delmer Daves"
+	},
+	{
+		"Title": "Medium Cool",
+		"Release Date": "08-27-69",
+		"Directors": "Haskell Wexler"
+	},
+	{
+		"Title": "Life Is Sweet",
+		"Release Date": "11-15-90",
+		"Directors": "Mike Leigh"
+	},
+	{
+		"Title": "Things to Come",
+		"Release Date": "02-21-36",
+		"Directors": "William Cameron Menzies"
+	},
+	{
+		"Title": "Marketa Lazarová",
+		"Release Date": "11-24-67",
+		"Directors": "Frantisek Vlácil"
+	},
+	{
+		"Title": "Safety Last!",
+		"Release Date": "04-01-23",
+		"Directors": "Fred C. Newmeyer"
+	},
+	{
+		"Title": "Shoah",
+		"Release Date": "04-30-85",
+		"Directors": "Claude Lanzmann"
+	},
+	{
+		"Title": "Saikaku ichidai onna",
+		"Release Date": "04-17-52",
+		"Directors": "Kenji Mizoguchi"
+	},
+	{
+		"Title": "Babettes gæstebud",
+		"Release Date": "05-31-87",
+		"Directors": "Gabriel Axel"
+	},
+	{
+		"Title": "El espinazo del diablo",
+		"Release Date": "04-20-01",
+		"Directors": "Guillermo del Toro"
+	},
+	{
+		"Title": "Seconds",
+		"Release Date": "05-16-66",
+		"Directors": "John Frankenheimer"
+	},
+	{
+		"Title": "Mahanagar",
+		"Release Date": "09-27-63",
+		"Directors": "Satyajit Ray"
+	},
+	{
+		"Title": "Charulata",
+		"Release Date": "04-17-64",
+		"Directors": "Satyajit Ray"
+	},
+	{
+		"Title": "To Be or Not to Be",
+		"Release Date": "02-19-42",
+		"Directors": "Ernst Lubitsch"
+	},
+	{
+		"Title": "La cage aux folles",
+		"Release Date": "10-25-78",
+		"Directors": "Édouard Molinaro"
+	},
+	{
+		"Title": "Stromboli",
+		"Release Date": " terra di Dio",
+		"Directors": "02-15-50"
+	},
+	{
+		"Title": "Europa '51",
+		"Release Date": "09-12-52",
+		"Directors": "Roberto Rossellini"
+	},
+	{
+		"Title": "Viaggio in Italia",
+		"Release Date": "09-07-54",
+		"Directors": "Roberto Rossellini"
+	},
+	{
+		"Title": "I Married a Witch",
+		"Release Date": "10-30-42",
+		"Directors": "René Clair"
+	},
+	{
+		"Title": "The Uninvited",
+		"Release Date": "02-10-44",
+		"Directors": "Lewis Allen"
+	},
+	{
+		"Title": "La notte",
+		"Release Date": "01-24-61",
+		"Directors": "Michelangelo Antonioni"
+	},
+	{
+		"Title": "Zatôichi monogatari",
+		"Release Date": "04-18-62",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Zoku Zatôichi monogatari",
+		"Release Date": "10-12-62",
+		"Directors": "Kazuo Mori"
+	},
+	{
+		"Title": "Shin Zatôichi monogatari",
+		"Release Date": "03-15-63",
+		"Directors": "Tokuzô Tanaka"
+	},
+	{
+		"Title": "Zatôichi kyôjô-tabi",
+		"Release Date": "08-10-63",
+		"Directors": "Tokuzô Tanaka"
+	},
+	{
+		"Title": "Zatôichi kenka-tabi",
+		"Release Date": "11-30-63",
+		"Directors": "Kimiyoshi Yasuda"
+	},
+	{
+		"Title": "Zatôichi senryô-kubi",
+		"Release Date": "03-14-64",
+		"Directors": "Kazuo Ikehiro"
+	},
+	{
+		"Title": "Zatôichi abare tako",
+		"Release Date": "07-11-64",
+		"Directors": "Kazuo Ikehiro"
+	},
+	{
+		"Title": "Zatôichi kesshô-tabi",
+		"Release Date": "10-17-64",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Zatôichi sekisho yaburi",
+		"Release Date": "12-30-64",
+		"Directors": "Kimiyoshi Yasuda"
+	},
+	{
+		"Title": "Zatôichi nidan-kiri",
+		"Release Date": "04-03-65",
+		"Directors": "Akira Inoue"
+	},
+	{
+		"Title": "Zatôichi sakate giri",
+		"Release Date": "09-18-65",
+		"Directors": "Kazuo Mori"
+	},
+	{
+		"Title": "Zatôichi jigoku tabi",
+		"Release Date": "12-24-65",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Zatôichi no uta ga kikoeru",
+		"Release Date": "05-03-66",
+		"Directors": "Tokuzô Tanaka"
+	},
+	{
+		"Title": "Zatôichi umi o wataru",
+		"Release Date": "08-13-66",
+		"Directors": "Kazuo Ikehiro"
+	},
+	{
+		"Title": "Zatôichi tekka tabi",
+		"Release Date": "01-03-67",
+		"Directors": "Kimiyoshi Yasuda"
+	},
+	{
+		"Title": "Zatôichi rôyaburi",
+		"Release Date": "08-12-67",
+		"Directors": "Satsuo Yamamoto"
+	},
+	{
+		"Title": "Zatôichi chikemuri kaidô",
+		"Release Date": "12-30-67",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Zatôichi hatashi-jô",
+		"Release Date": "08-10-68",
+		"Directors": "Kimiyoshi Yasuda"
+	},
+	{
+		"Title": "Zatôichi kenka-daiko",
+		"Release Date": "12-28-68",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Zatôichi to Yôjinbô",
+		"Release Date": "01-15-70",
+		"Directors": "Kihachi Okamoto"
+	},
+	{
+		"Title": "Zatôichi abare-himatsuri",
+		"Release Date": "08-12-70",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Shin Zatôichi: Yabure! Tôjin-ken",
+		"Release Date": "01-13-71",
+		"Directors": "Kimiyoshi Yasuda"
+	},
+	{
+		"Title": "Zatôichi goyô-tabi",
+		"Release Date": "01-15-72",
+		"Directors": "Kazuo Mori"
+	},
+	{
+		"Title": "Shin Zatôichi monogatari: Oreta tsue",
+		"Release Date": "09-02-72",
+		"Directors": "Shintarô Katsu"
+	},
+	{
+		"Title": "Shin Zatôichi monogatari: Kasama no chimatsuri",
+		"Release Date": "04-21-73",
+		"Directors": "Kimiyoshi Yasuda"
+	},
+	{
+		"Title": "City Lights",
+		"Release Date": "01-30-31",
+		"Directors": "Charles Chaplin"
+	},
+	{
+		"Title": "Frances Ha",
+		"Release Date": "09-01-12",
+		"Directors": "Noah Baumbach"
+	},
+	{
+		"Title": "Indagine su un cittadino al di sopra di ogni sospetto",
+		"Release Date": "02-12-70",
+		"Directors": "Elio Petri"
+	},
+	{
+		"Title": "Nashville",
+		"Release Date": "06-11-75",
+		"Directors": "Robert Altman"
+	},
+	{
+		"Title": "Touki Bouki",
+		"Release Date": "07-31-73",
+		"Directors": "Djibril Diop Mambéty"
+	},
+	{
+		"Title": "Redes",
+		"Release Date": "07-16-36",
+		"Directors": "Emilio Gómez Muriel"
+	},
+	{
+		"Title": "Titas Ekti Nodir Naam",
+		"Release Date": "07-27-73",
+		"Directors": "Ritwik Ghatak"
+	},
+	{
+		"Title": "Susuz Yaz",
+		"Release Date": "12-16-63",
+		"Directors": "Metin Erksan"
+	},
+	{
+		"Title": "Trances",
+		"Release Date": "05-31-81",
+		"Directors": "Ahmed El Maanouni"
+	},
+	{
+		"Title": "Hanyo",
+		"Release Date": "11-03-60",
+		"Directors": "Ki-young Kim"
+	},
+	{
+		"Title": "Thief",
+		"Release Date": "03-27-81",
+		"Directors": "Michael Mann"
+	},
+	{
+		"Title": "It's a Mad Mad Mad Mad World",
+		"Release Date": "11-07-63",
+		"Directors": "Stanley Kramer"
+	},
+	{
+		"Title": "La vie de bohème",
+		"Release Date": "02-18-92",
+		"Directors": "Aki Kaurismäki"
+	},
+	{
+		"Title": "The Long Day Closes",
+		"Release Date": "05-13-92",
+		"Directors": "Terence Davies"
+	},
+	{
+		"Title": "La vie d'Adèle",
+		"Release Date": "05-23-13",
+		"Directors": "Abdellatif Kechiche"
+	},
+	{
+		"Title": "Foreign Correspondent",
+		"Release Date": "08-16-40",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "Tess",
+		"Release Date": "10-25-79",
+		"Directors": "Roman Polanski"
+	},
+	{
+		"Title": "King of the Hill",
+		"Release Date": "05-19-93",
+		"Directors": "Steven Soderbergh"
+	},
+	{
+		"Title": "A Brief History of Time",
+		"Release Date": "10-31-91",
+		"Directors": "Errol Morris"
+	},
+	{
+		"Title": "Fantastic Mr. Fox",
+		"Release Date": "10-14-09",
+		"Directors": "Wes Anderson"
+	},
+	{
+		"Title": "Persona",
+		"Release Date": "10-18-66",
+		"Directors": "Ingmar Bergman"
+	},
+	{
+		"Title": "La grande bellezza",
+		"Release Date": "05-21-13",
+		"Directors": "Paolo Sorrentino"
+	},
+	{
+		"Title": "The Freshman",
+		"Release Date": "09-20-25",
+		"Directors": "Fred C. Newmeyer"
+	},
+	{
+		"Title": "Riot in Cell Block 11",
+		"Release Date": "02-18-54",
+		"Directors": "Don Siegel"
+	},
+	{
+		"Title": "Breaking the Waves",
+		"Release Date": "05-13-96",
+		"Directors": "Lars von Trier"
+	},
+	{
+		"Title": "Du skal ære din hustru",
+		"Release Date": "10-05-25",
+		"Directors": "Carl Theodor Dreyer"
+	},
+	{
+		"Title": "Il sorpasso",
+		"Release Date": "12-05-62",
+		"Directors": "Dino Risi"
+	},
+	{
+		"Title": "Like Someone in Love",
+		"Release Date": "04-11-12",
+		"Directors": "Abbas Kiarostami"
+	},
+	{
+		"Title": "Red River",
+		"Release Date": "08-26-48",
+		"Directors": "Arthur Rosson"
+	},
+	{
+		"Title": "Judex",
+		"Release Date": "12-04-63",
+		"Directors": "Georges Franju"
+	},
+	{
+		"Title": "A Hard Day's Night",
+		"Release Date": "07-06-64",
+		"Directors": "Richard Lester"
+	},
+	{
+		"Title": "Scanners",
+		"Release Date": "01-14-81",
+		"Directors": "David Cronenberg"
+	},
+	{
+		"Title": "Lola",
+		"Release Date": "03-03-61",
+		"Directors": "Jacques Demy"
+	},
+	{
+		"Title": "La baie des anges",
+		"Release Date": "03-01-63",
+		"Directors": "Jacques Demy"
+	},
+	{
+		"Title": "Les parapluies de Cherbourg",
+		"Release Date": "02-19-64",
+		"Directors": "Jacques Demy"
+	},
+	{
+		"Title": "Les demoiselles de Rochefort",
+		"Release Date": "03-08-67",
+		"Directors": "Jacques Demy"
+	},
+	{
+		"Title": "Peau d'âne",
+		"Release Date": "12-20-70",
+		"Directors": "Jacques Demy"
+	},
+	{
+		"Title": "Une chambre en ville",
+		"Release Date": "10-27-82",
+		"Directors": "Jacques Demy"
+	},
+	{
+		"Title": "The Big Chill",
+		"Release Date": "09-09-83",
+		"Directors": "Lawrence Kasdan"
+	},
+	{
+		"Title": "Love Streams",
+		"Release Date": "02-28-84",
+		"Directors": "John Cassavetes"
+	},
+	{
+		"Title": "¡Átame!",
+		"Release Date": "12-12-89",
+		"Directors": "Pedro Almodóvar"
+	},
+	{
+		"Title": "Y tu mamá también",
+		"Release Date": "06-08-01",
+		"Directors": "Alfonso Cuarón"
+	},
+	{
+		"Title": "All That Jazz",
+		"Release Date": "12-16-79",
+		"Directors": "Bob Fosse"
+	},
+	{
+		"Title": "Eraserhead",
+		"Release Date": "03-19-77",
+		"Directors": "David Lynch"
+	},
+	{
+		"Title": "The Tragedy of Macbeth",
+		"Release Date": "12-01-71",
+		"Directors": "Roman Polanski"
+	},
+	{
+		"Title": "The Innocents",
+		"Release Date": "11-24-61",
+		"Directors": "Jack Clayton"
+	},
+	{
+		"Title": "Les dimanches de Ville d'Avray",
+		"Release Date": "09-30-62",
+		"Directors": "Serge Bourguignon"
+	},
+	{
+		"Title": "Jour de fête",
+		"Release Date": "05-11-49",
+		"Directors": "Jacques Tati"
+	},
+	{
+		"Title": "Parade",
+		"Release Date": "05-12-74",
+		"Directors": "Jacques Tati"
+	},
+	{
+		"Title": "My Darling Clementine",
+		"Release Date": "10-16-46",
+		"Directors": "John Ford"
+	},
+	{
+		"Title": "La dolce vita",
+		"Release Date": "02-03-60",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "The Shooting",
+		"Release Date": "06-02-66",
+		"Directors": "Monte Hellman"
+	},
+	{
+		"Title": "Ride in the Whirlwind",
+		"Release Date": "10-23-66",
+		"Directors": "Monte Hellman"
+	},
+	{
+		"Title": "It Happened One Night",
+		"Release Date": "02-22-34",
+		"Directors": "Frank Capra"
+	},
+	{
+		"Title": "Always for Pleasure",
+		"Release Date": "05-02-78",
+		"Directors": "Les Blank"
+	},
+	{
+		"Title": "Tootsie",
+		"Release Date": "12-01-82",
+		"Directors": "Sydney Pollack"
+	},
+	{
+		"Title": "Safe",
+		"Release Date": "01-25-95",
+		"Directors": "Todd Haynes"
+	},
+	{
+		"Title": "Die bitteren Tränen der Petra von Kant",
+		"Release Date": "06-25-72",
+		"Directors": "Rainer Werner Fassbinder"
+	},
+	{
+		"Title": "My Winnipeg",
+		"Release Date": "09-07-07",
+		"Directors": "Guy Maddin"
+	},
+	{
+		"Title": "The Palm Beach Story",
+		"Release Date": "08-28-42",
+		"Directors": "Preston Sturges"
+	},
+	{
+		"Title": "La Ciénaga",
+		"Release Date": "02-08-01",
+		"Directors": "Lucrecia Martel"
+	},
+	{
+		"Title": "Sauve qui peut (la vie)",
+		"Release Date": "05-22-80",
+		"Directors": "Jean-Luc Godard"
+	},
+	{
+		"Title": "Don't Look Now",
+		"Release Date": "10-11-73",
+		"Directors": "Nicolas Roeg"
+	},
+	{
+		"Title": "Partie de campagne",
+		"Release Date": "05-08-46",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Fellini - Satyricon",
+		"Release Date": "09-04-69",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "Watership Down",
+		"Release Date": "10-14-78",
+		"Directors": "Martin Rosen"
+	},
+	{
+		"Title": "La peau douce",
+		"Release Date": "04-20-64",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "Ride the Pink Horse",
+		"Release Date": "10-08-47",
+		"Directors": "Robert Montgomery"
+	},
+	{
+		"Title": "Gates of Heaven",
+		"Release Date": "10-31-78",
+		"Directors": "Errol Morris"
+	},
+	{
+		"Title": "Vernon",
+		"Release Date": " Florida",
+		"Directors": "10-08-81"
+	},
+	{
+		"Title": "The Thin Blue Line",
+		"Release Date": "08-25-88",
+		"Directors": "Errol Morris"
+	},
+	{
+		"Title": "Odd Man Out",
+		"Release Date": "01-30-47",
+		"Directors": "Carol Reed"
+	},
+	{
+		"Title": "Le silence de la mer",
+		"Release Date": "04-22-49",
+		"Directors": "Jean-Pierre Melville"
+	},
+	{
+		"Title": "Limelight",
+		"Release Date": "10-16-52",
+		"Directors": "Charles Chaplin"
+	},
+	{
+		"Title": "The Rose",
+		"Release Date": "11-07-79",
+		"Directors": "Mark Rydell"
+	},
+	{
+		"Title": "Händler der vier Jahreszeiten",
+		"Release Date": "02-10-72",
+		"Directors": "Rainer Werner Fassbinder"
+	},
+	{
+		"Title": "L'aveu",
+		"Release Date": "04-29-70",
+		"Directors": "Costa-Gavras"
+	},
+	{
+		"Title": "État de siège",
+		"Release Date": "12-30-72",
+		"Directors": "Costa-Gavras"
+	},
+	{
+		"Title": "Valerie a týden divu",
+		"Release Date": "10-16-70",
+		"Directors": "Jaromil Jires"
+	},
+	{
+		"Title": "A Master Builder",
+		"Release Date": "11-11-13",
+		"Directors": "Jonathan Demme"
+	},
+	{
+		"Title": "Die Brücke",
+		"Release Date": "10-22-59",
+		"Directors": "Bernhard Wicki"
+	},
+	{
+		"Title": "The Fisher King",
+		"Release Date": "09-10-91",
+		"Directors": "Terry Gilliam"
+	},
+	{
+		"Title": "The Black Stallion",
+		"Release Date": "10-13-79",
+		"Directors": "Carroll Ballard"
+	},
+	{
+		"Title": "Här har du ditt liv",
+		"Release Date": "12-26-66",
+		"Directors": "Jan Troell"
+	},
+	{
+		"Title": "My Beautiful Laundrette",
+		"Release Date": "08-18-85",
+		"Directors": "Stephen Frears"
+	},
+	{
+		"Title": "The French Lieutenant's Woman",
+		"Release Date": "09-18-81",
+		"Directors": "Karel Reisz"
+	},
+	{
+		"Title": "La nuit américaine",
+		"Release Date": "05-15-73",
+		"Directors": "François Truffaut"
+	},
+	{
+		"Title": "Dressed to Kill",
+		"Release Date": "07-25-80",
+		"Directors": "Brian De Palma"
+	},
+	{
+		"Title": "Deux jours",
+		"Release Date": " une nuit",
+		"Directors": "05-20-14"
+	},
+	{
+		"Title": "Przypadek",
+		"Release Date": "01-10-87",
+		"Directors": "Krzysztof Kieslowski"
+	},
+	{
+		"Title": "'Breaker' Morant",
+		"Release Date": "05-12-80",
+		"Directors": "Bruce Beresford"
+	},
+	{
+		"Title": "Mister Johnson",
+		"Release Date": "09-08-90",
+		"Directors": "Bruce Beresford"
+	},
+	{
+		"Title": "A Room with a View",
+		"Release Date": "12-13-85",
+		"Directors": "James Ivory"
+	},
+	{
+		"Title": "Moonrise Kingdom",
+		"Release Date": "05-16-12",
+		"Directors": "Wes Anderson"
+	},
+	{
+		"Title": "The Brood",
+		"Release Date": "05-25-79",
+		"Directors": "David Cronenberg"
+	},
+	{
+		"Title": "Una giornata particolare",
+		"Release Date": "05-19-77",
+		"Directors": "Ettore Scola"
+	},
+	{
+		"Title": "Mulholland Dr.",
+		"Release Date": "05-16-01",
+		"Directors": "David Lynch"
+	},
+	{
+		"Title": "Code inconnu: Récit incomplet de divers voyages",
+		"Release Date": "05-19-00",
+		"Directors": "Michael Haneke"
+	},
+	{
+		"Title": "In Cold Blood",
+		"Release Date": "12-14-67",
+		"Directors": "Richard Brooks"
+	},
+	{
+		"Title": "Pather Panchali",
+		"Release Date": "08-26-55",
+		"Directors": "Satyajit Ray"
+	},
+	{
+		"Title": "Aparajito",
+		"Release Date": "10-11-56",
+		"Directors": "Satyajit Ray"
+	},
+	{
+		"Title": "Apur Sansar",
+		"Release Date": "05-01-59",
+		"Directors": "Satyajit Ray"
+	},
+	{
+		"Title": "Dont Look Back",
+		"Release Date": "05-17-67",
+		"Directors": "D.A. Pennebaker"
+	},
+	{
+		"Title": "Mememe no kurage",
+		"Release Date": "04-08-13",
+		"Directors": "Takashi Murakami"
+	},
+	{
+		"Title": "Speedy",
+		"Release Date": "04-07-28",
+		"Directors": "Ted Wilde"
+	},
+	{
+		"Title": "Burroughs: The Movie",
+		"Release Date": "10-08-83",
+		"Directors": "Howard Brookner"
+	},
+	{
+		"Title": "Shurayukihime",
+		"Release Date": "12-01-73",
+		"Directors": "Toshiya Fujita"
+	},
+	{
+		"Title": "Shurayukihime: Urami koiuta",
+		"Release Date": "06-15-74",
+		"Directors": "Toshiya Fujita"
+	},
+	{
+		"Title": "Riso amaro",
+		"Release Date": "09-07-49",
+		"Directors": "Giuseppe De Santis"
+	},
+	{
+		"Title": "Der amerikanische Freund",
+		"Release Date": "05-26-77",
+		"Directors": "Wim Wenders"
+	},
+	{
+		"Title": "Inside Llewyn Davis",
+		"Release Date": "05-19-13",
+		"Directors": "Joel Coen"
+	},
+	{
+		"Title": "Gilda",
+		"Release Date": "03-14-46",
+		"Directors": "Charles Vidor"
+	},
+	{
+		"Title": "Utvandrarna",
+		"Release Date": "03-08-71",
+		"Directors": "Jan Troell"
+	},
+	{
+		"Title": "Nybyggarna",
+		"Release Date": "02-26-72",
+		"Directors": "Jan Troell"
+	},
+	{
+		"Title": "Kôshikei",
+		"Release Date": "02-03-68",
+		"Directors": "Nagisa Ôshima"
+	},
+	{
+		"Title": "The Kid",
+		"Release Date": "01-16-21",
+		"Directors": "Charles Chaplin"
+	},
+	{
+		"Title": "The Graduate",
+		"Release Date": "12-21-67",
+		"Directors": "Mike Nichols"
+	},
+	{
+		"Title": "Io la conoscevo bene",
+		"Release Date": "12-01-65",
+		"Directors": "Antonio Pietrangeli"
+	},
+	{
+		"Title": "Paris nous appartient",
+		"Release Date": "12-13-61",
+		"Directors": "Jacques Rivette"
+	},
+	{
+		"Title": "The Manchurian Candidate",
+		"Release Date": "10-24-62",
+		"Directors": "John Frankenheimer"
+	},
+	{
+		"Title": "Gu ling jie shao nian sha ren shi jian",
+		"Release Date": "07-27-91",
+		"Directors": "Edward Yang"
+	},
+	{
+		"Title": "A Poem Is a Naked Person",
+		"Release Date": "12-31-74",
+		"Directors": "Les Blank"
+	},
+	{
+		"Title": "Only Angels Have Wings",
+		"Release Date": "05-12-39",
+		"Directors": "Howard Hawks"
+	},
+	{
+		"Title": "Barcelona",
+		"Release Date": "06-30-94",
+		"Directors": "Whit Stillman"
+	},
+	{
+		"Title": "Phoenix",
+		"Release Date": "09-05-14",
+		"Directors": "Christian Petzold"
+	},
+	{
+		"Title": "In a Lonely Place",
+		"Release Date": "05-17-50",
+		"Directors": "Nicholas Ray"
+	},
+	{
+		"Title": "Hadaka no shima",
+		"Release Date": "11-23-60",
+		"Directors": "Kaneto Shindô"
+	},
+	{
+		"Title": "The Player",
+		"Release Date": "04-03-92",
+		"Directors": "Robert Altman"
+	},
+	{
+		"Title": "Alice in den Städten",
+		"Release Date": "03-03-74",
+		"Directors": "Wim Wenders"
+	},
+	{
+		"Title": "Falsche Bewegung",
+		"Release Date": "03-14-75",
+		"Directors": "Wim Wenders"
+	},
+	{
+		"Title": "Im Lauf der Zeit",
+		"Release Date": "03-04-76",
+		"Directors": "Wim Wenders"
+	},
+	{
+		"Title": "Le amiche",
+		"Release Date": "09-06-55",
+		"Directors": "Michelangelo Antonioni"
+	},
+	{
+		"Title": "La chienne",
+		"Release Date": "11-20-31",
+		"Directors": "Jean Renoir"
+	},
+	{
+		"Title": "Here Comes Mr. Jordan",
+		"Release Date": "08-07-41",
+		"Directors": "Alexander Hall"
+	},
+	{
+		"Title": "La planète sauvage",
+		"Release Date": "05-11-73",
+		"Directors": "René Laloux"
+	},
+	{
+		"Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+		"Release Date": "01-29-64",
+		"Directors": "Stanley Kubrick"
+	},
+	{
+		"Title": "Clouds of Sils Maria",
+		"Release Date": "05-23-14",
+		"Directors": "Olivier Assayas"
+	},
+	{
+		"Title": "The In-Laws",
+		"Release Date": "06-15-79",
+		"Directors": "Arthur Hiller"
+	},
+	{
+		"Title": "Muriel ou le temps d'un retour",
+		"Release Date": "08-31-63",
+		"Directors": "Alain Resnais"
+	},
+	{
+		"Title": "Xia nü",
+		"Release Date": "11-18-71",
+		"Directors": "King Hu"
+	},
+	{
+		"Title": "The New World",
+		"Release Date": "12-25-05",
+		"Directors": "Terrence Malick"
+	},
+	{
+		"Title": "McCabe & Mrs. Miller",
+		"Release Date": "06-24-71",
+		"Directors": "Robert Altman"
+	},
+	{
+		"Title": "Jag är Ingrid",
+		"Release Date": "05-19-15",
+		"Directors": "Stig Björkman"
+	},
+	{
+		"Title": "A Taste of Honey",
+		"Release Date": "09-14-61",
+		"Directors": "Tony Richardson"
+	},
+	{
+		"Title": "Campanadas a medianoche",
+		"Release Date": "12-22-65",
+		"Directors": "Orson Welles"
+	},
+	{
+		"Title": "Histoire immortelle",
+		"Release Date": "05-24-68",
+		"Directors": "Orson Welles"
+	},
+	{
+		"Title": "Zangiku monogatari",
+		"Release Date": "10-10-39",
+		"Directors": "Kenji Mizoguchi"
+	},
+	{
+		"Title": "Cat People",
+		"Release Date": "12-05-42",
+		"Directors": "Jacques Tourneur"
+	},
+	{
+		"Title": "Blood Simple",
+		"Release Date": "09-07-84",
+		"Directors": "Joel Coen"
+	},
+	{
+		"Title": "Valley of the Dolls",
+		"Release Date": "12-15-67",
+		"Directors": "Mark Robson"
+	},
+	{
+		"Title": "Beyond the Valley of the Dolls",
+		"Release Date": "06-17-70",
+		"Directors": "Russ Meyer"
+	},
+	{
+		"Title": "Dekalog",
+		"Release Date": "05-16-89",
+		"Directors": ""
+	},
+	{
+		"Title": "El laberinto del fauno",
+		"Release Date": "05-27-06",
+		"Directors": "Guillermo del Toro"
+	},
+	{
+		"Title": "Boyhood",
+		"Release Date": "01-19-14",
+		"Directors": "Richard Linklater"
+	},
+	{
+		"Title": "El verdugo",
+		"Release Date": "08-31-63",
+		"Directors": "Luis García Berlanga"
+	},
+	{
+		"Title": "Kozure Ôkami: Ko wo kashi ude kashi tsukamatsuru",
+		"Release Date": "01-15-72",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Kozure Ôkami: Sanzu no kawa no ubaguruma",
+		"Release Date": "06-30-72",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Kozure Ôkami: Shinikazeni mukau ubaguruma",
+		"Release Date": "08-31-72",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Kozure Ôkami: Oya no kokoro ko no kokoro",
+		"Release Date": "11-30-72",
+		"Directors": "Buichi Saitô"
+	},
+	{
+		"Title": "Kozure Ôkami: Meifumadô",
+		"Release Date": "08-11-73",
+		"Directors": "Kenji Misumi"
+	},
+	{
+		"Title": "Kozure Ôkami: Jigoku e ikuzo! Daigorô",
+		"Release Date": "04-24-74",
+		"Directors": "Yoshiyuki Kuroda"
+	},
+	{
+		"Title": "Yume",
+		"Release Date": "05-10-90",
+		"Directors": "Akira Kurosawa"
+	},
+	{
+		"Title": "Punch-Drunk Love",
+		"Release Date": "05-19-02",
+		"Directors": "Paul Thomas Anderson"
+	},
+	{
+		"Title": "One-Eyed Jacks",
+		"Release Date": "03-30-61",
+		"Directors": "Marlon Brando"
+	},
+	{
+		"Title": "The Squid and the Whale",
+		"Release Date": "01-24-05",
+		"Directors": "Noah Baumbach"
+	},
+	{
+		"Title": "Heart of a Dog",
+		"Release Date": "09-04-15",
+		"Directors": "Laurie Anderson"
+	},
+	{
+		"Title": "The Asphalt Jungle",
+		"Release Date": "06-01-50",
+		"Directors": "John Huston"
+	},
+	{
+		"Title": "Roma",
+		"Release Date": "03-09-72",
+		"Directors": "Federico Fellini"
+	},
+	{
+		"Title": "His Girl Friday",
+		"Release Date": "01-11-40",
+		"Directors": "Howard Hawks"
+	},
+	{
+		"Title": "Something Wild",
+		"Release Date": "12-20-61",
+		"Directors": "Jack Garfein"
+	},
+	{
+		"Title": "Faustrecht der Freiheit",
+		"Release Date": "05-15-75",
+		"Directors": "Rainer Werner Fassbinder"
+	},
+	{
+		"Title": "La noire de...",
+		"Release Date": "12-31-66",
+		"Directors": "Ousmane Sembene"
+	},
+	{
+		"Title": "Cameraperson",
+		"Release Date": "01-26-16",
+		"Directors": "Kirsten Johnson"
+	},
+	{
+		"Title": "L'albero degli zoccoli",
+		"Release Date": "05-17-78",
+		"Directors": "Ermanno Olmi"
+	},
+	{
+		"Title": "Mujeres al borde de un ataque de ",
+		"Release Date": "03-14-88",
+		"Directors": "Pedro Almodóvar"
+	},
+	{
+		"Title": "Before Sunrise",
+		"Release Date": "01-19-95",
+		"Directors": "Richard Linklater"
+	},
+	{
+		"Title": "Before Sunset",
+		"Release Date": "02-10-04",
+		"Directors": "Richard Linklater"
+	},
+	{
+		"Title": "Before Midnight",
+		"Release Date": "01-20-13",
+		"Directors": "Richard Linklater"
+	},
+	{
+		"Title": "Mildred Pierce",
+		"Release Date": "09-28-45",
+		"Directors": "Michael Curtiz"
+	},
+	{
+		"Title": "45 Years",
+		"Release Date": "02-06-15",
+		"Directors": "Andrew Haigh"
+	},
+	{
+		"Title": "Canoa",
+		"Release Date": "03-04-76",
+		"Directors": "Felipe Cazals"
+	},
+	{
+		"Title": "Multiple Maniacs",
+		"Release Date": "04-10-70",
+		"Directors": "John Waters"
+	},
+	{
+		"Title": "Being There",
+		"Release Date": "12-20-79",
+		"Directors": "Hal Ashby"
+	},
+	{
+		"Title": "Blowup",
+		"Release Date": "12-18-66",
+		"Directors": "Michelangelo Antonioni"
+	},
+	{
+		"Title": "Buena Vista Social Club",
+		"Release Date": "02-17-99",
+		"Directors": "Wim Wenders"
+	},
+	{
+		"Title": "Woman of the Year",
+		"Release Date": "02-05-42",
+		"Directors": "George Stevens"
+	},
+	{
+		"Title": "Tampopo",
+		"Release Date": "11-23-85",
+		"Directors": "Jûzô Itami"
+	},
+	{
+		"Title": "Rumble Fish",
+		"Release Date": "10-07-83",
+		"Directors": "Francis Ford Coppola"
+	},
+	{
+		"Title": "The Tragedy of Othello: The Moor of Venice",
+		"Release Date": "11-27-51",
+		"Directors": "Orson Welles"
+	},
+	{
+		"Title": "Dheepan",
+		"Release Date": "05-21-15",
+		"Directors": "Jacques Audiard"
+	},
+	{
+		"Title": "Ghost World",
+		"Release Date": "06-16-01",
+		"Directors": "Terry Zwigoff"
+	},
+	{
+		"Title": "Insiang",
+		"Release Date": "12-25-76",
+		"Directors": "Lino Brocka"
+	},
+	{
+		"Title": "Dokfa nai meuman",
+		"Release Date": "10-02-00",
+		"Directors": "Apichatpong Weerasethakul"
+	},
+	{
+		"Title": "Mest",
+		"Release Date": "12-31-89",
+		"Directors": "Yermek Shinarbayev"
+	},
+	{
+		"Title": "Limite",
+		"Release Date": "05-17-31",
+		"Directors": "Mario Peixoto"
+	},
+	{
+		"Title": "Hudutlarin Kanunu",
+		"Release Date": "10-04-11",
+		"Directors": "Lütfi Akad"
+	},
+	{
+		"Title": "Qing mei zhu ma",
+		"Release Date": "04-22-85",
+		"Directors": "Edward Yang"
+	},
+	{
+		"Title": "They Live by Night",
+		"Release Date": "08-31-48",
+		"Directors": "Nicholas Ray"
+	},
+	{
+		"Title": "Marius",
+		"Release Date": "10-09-31",
+		"Directors": "Alexander Korda"
+	},
+	{
+		"Title": "Fanny",
+		"Release Date": "11-02-32",
+		"Directors": "Marc Allégret"
+	},
+	{
+		"Title": "César",
+		"Release Date": "11-11-36",
+		"Directors": "Marcel Pagnol"
+	},
+	{
+		"Title": "The Lodger: A Story of the London Fog",
+		"Release Date": "01-31-27",
+		"Directors": "Alfred Hitchcock"
+	},
+	{
+		"Title": "L'argent",
+		"Release Date": "05-16-83",
+		"Directors": "Robert Bresson"
+	},
+	{
+		"Title": "Lost in America",
+		"Release Date": "03-15-85",
+		"Directors": "Albert Brooks"
+	},
+	{
+		"Title": "Stalker",
+		"Release Date": "05-31-79",
+		"Directors": "Andrei Tarkovsky"
+	},
+	{
+		"Title": "The Breaking Point",
+		"Release Date": "09-30-50",
+		"Directors": "Michael Curtiz"
+	},
+	{
+		"Title": "Meantime",
+		"Release Date": "12-01-83",
+		"Directors": "Mike Leigh"
+	},
+	{
+		"Title": "La poison",
+		"Release Date": "11-30-51",
+		"Directors": "Sacha Guitry"
+	},
+	{
+		"Title": "Festival",
+		"Release Date": "10-23-67",
+		"Directors": "Murray Lerner"
+	},
+	{
+		"Title": "Certain Women",
+		"Release Date": "01-24-16",
+		"Directors": "Kelly Reichardt"
+	},
+	{
+		"Title": "La pianiste",
+		"Release Date": "05-14-01",
+		"Directors": "Michael Haneke"
+	},
+	{
+		"Title": "David Lynch: The Art Life",
+		"Release Date": "09-04-16",
+		"Directors": "Olivia Neergaard-Holm"
+	},
+	{
+		"Title": "Córki dancingu",
+		"Release Date": "12-25-15",
+		"Directors": "Agnieszka Smoczynska"
+	},
+	{
+		"Title": "Barry Lyndon",
+		"Release Date": "12-11-75",
+		"Directors": "Stanley Kubrick"
+	},
+	{
+		"Title": "Twin Peaks: Fire Walk with Me",
+		"Release Date": "05-16-92",
+		"Directors": "David Lynch"
+	},
+	{
+		"Title": "Personal Shopper",
+		"Release Date": "05-17-16",
+		"Directors": "Olivier Assayas"
+	},
+	{
+		"Title": "The Philadelphia Story",
+		"Release Date": "12-05-40",
+		"Directors": "George Cukor"
+	},
+	{
+		"Title": "Desert Hearts",
+		"Release Date": "08-31-85",
+		"Directors": "Donna Deitch"
+	},
+	{
+		"Title": "Jabberwocky",
+		"Release Date": "03-28-77",
+		"Directors": "Terry Gilliam"
+	},
+	{
+		"Title": "Election",
+		"Release Date": "04-23-99",
+		"Directors": "Alexander Payne"
+	},
+	{
+		"Title": "The Breakfast Club",
+		"Release Date": "02-07-85",
+		"Directors": "John Hughes"
+	},
+	{
+		"Title": "I",
+		"Release Date": " Daniel Blake",
+		"Directors": "05-13-16"
+	},
+	{
+		"Title": "Westfront 1918: Vier von der Infanterie",
+		"Release Date": "05-23-30",
+		"Directors": "Georg Wilhelm Pabst"
+	},
+	{
+		"Title": "Kameradschaft",
+		"Release Date": "11-17-31",
+		"Directors": "Georg Wilhelm Pabst"
+	},
+	{
+		"Title": "Tom Jones",
+		"Release Date": "06-26-63",
+		"Directors": "Tony Richardson"
+	},
+	{
+		"Title": "Night of the Living Dead",
+		"Release Date": "10-01-68",
+		"Directors": "George A. Romero"
+	},
+	{
+		"Title": "Nayak",
+		"Release Date": "05-06-66",
+		"Directors": "Satyajit Ray"
+	},
+	{
+		"Title": "Yukinojô henge",
+		"Release Date": "01-13-63",
+		"Directors": "Kon Ichikawa"
+	},
+	{
+		"Title": "The Age of Innocence",
+		"Release Date": "08-31-93",
+		"Directors": "Martin Scorsese"
+	},
+	{
+		"Title": "Baal",
+		"Release Date": "01-07-70",
+		"Directors": "Volker Schlöndorff"
+	},
+	{
+		"Title": "King of Jazz",
+		"Release Date": "04-20-30",
+		"Directors": "John Murray Anderson"
+	},
+	{
+		"Title": "Women in Love",
+		"Release Date": "11-13-69",
+		"Directors": "Ken Russell"
+	},
+	{
+		"Title": "The Awful Truth",
+		"Release Date": "10-20-37",
+		"Directors": "Leo McCarey"
+	},
+	{
+		"Title": "Sayat Nova",
+		"Release Date": "10-31-69",
+		"Directors": "Sergei Parajanov"
+	},
+	{
+		"Title": "Dead Man",
+		"Release Date": "05-27-95",
+		"Directors": "Jim Jarmusch"
+	},
+	{
+		"Title": "The Virgin Suicides",
+		"Release Date": "05-19-99",
+		"Directors": "Sofia Coppola"
+	},
+	{
+		"Title": "Moonrise",
+		"Release Date": "09-09-48",
+		"Directors": "Frank Borzage"
+	},
+	{
+		"Title": "Toivon tuolla puolen",
+		"Release Date": "01-25-17",
+		"Directors": "Aki Kaurismäki"
+	},
+	{
+		"Title": "Dupa dealuri",
+		"Release Date": "05-19-12",
+		"Directors": "Cristian Mungiu"
+	},
+	{
+		"Title": "Bacalaureat",
+		"Release Date": "05-19-16",
+		"Directors": "Cristian Mungiu"
+	},
+	{
+		"Title": "Midnight Cowboy",
+		"Release Date": "05-25-69",
+		"Directors": "John Schlesinger"
+	},
+	{
+		"Title": "Maynila sa mga kuko ng liwanag",
+		"Release Date": "07-16-75",
+		"Directors": "Lino Brocka"
+	},
+	{
+		"Title": "El sur",
+		"Release Date": "05-18-83",
+		"Directors": "Víctor Erice"
+	},
+	{
+		"Title": "Bowling for Columbine",
+		"Release Date": "05-16-02",
+		"Directors": "Michael Moore"
+	},
+	{
+		"Title": "Female Trouble",
+		"Release Date": "10-04-74",
+		"Directors": "John Waters"
+	},
+	{
+		"Title": "Morocco",
+		"Release Date": "11-14-30",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "Dishonored",
+		"Release Date": "03-05-31",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "Shanghai Express",
+		"Release Date": "02-03-32",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "Blonde Venus",
+		"Release Date": "09-14-32",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "The Devil Is a Woman",
+		"Release Date": "04-19-35",
+		"Directors": "Josef von Sternberg"
+	},
+	{
+		"Title": "Bull Durham",
+		"Release Date": "06-15-88",
+		"Directors": "Ron Shelton"
+	},
+	{
+		"Title": "Long men kezhan",
+		"Release Date": "10-21-67",
+		"Directors": "King Hu"
+	},
+	{
+		"Title": "Sex",
+		"Release Date": " Lies",
+		"Directors": " and Videotape"
+	},
+	{
+		"Title": "A Matter of Life and Death",
+		"Release Date": "11-01-46",
+		"Directors": "Michael Powell"
+	},
+	{
+		"Title": "The Ballad of Gregorio Cortez",
+		"Release Date": "12-31-82",
+		"Directors": "Robert M. Young"
+	},
+	{
+		"Title": "Smithereens",
+		"Release Date": "09-11-82",
+		"Directors": "Susan Seidelman"
+	},
+	{
+		"Title": "The Tree of Life",
+		"Release Date": "05-16-11",
+		"Directors": "Terrence Malick"
+	},
+	{
+		"Title": "Memorias del subdesarrollo",
+		"Release Date": "06-01-68",
+		"Directors": "Tomás Gutiérrez Alea"
+	},
+	{
+		"Title": "L'eau froide",
+		"Release Date": "05-17-94",
+		"Directors": "Olivier Assayas"
+	},
+	{
+		"Title": "A Raisin in the Sun",
+		"Release Date": "05-29-61",
+		"Directors": "Daniel Petrie"
+	},
+	{
+		"Title": "Acht Stunden sind kein Tag",
+		"Release Date": "10-29-72",
+		"Directors": ""
+	},
+	{
+		"Title": "Shampoo",
+		"Release Date": "02-11-75",
+		"Directors": "Hal Ashby"
+	},
+	{
+		"Title": "The Princess Bride",
+		"Release Date": "09-18-87",
+		"Directors": "Rob Reiner"
+	}
+]
