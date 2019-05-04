@@ -42,8 +42,7 @@ links:
     url: /books/
   - title: Contact
     url: /contact/
-  - title: Film Finder
-    url: /findfilm/
+
 #    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
