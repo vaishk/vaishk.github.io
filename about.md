@@ -9,7 +9,7 @@ modified: 2016-07-12
 ![image-left](/images/me2.jpg){: .me} K Vaishali is an Indian author based in Hyderabad. She has a Masters in Communication from the University of Hyderabad. She works as a technical writer for Salesforce, writing developer guides for cloud computing technologies. 
 
 #### Publications
-_Floral Patterns,_ **[2021 Out of Print - Kala Ghoda Special Issue]**(http://outofprintmagazine.blogspot.com/2021/03/the-out-of-print-workshop-at-kala-ghoda_44.html)   <br>
+_Floral Patterns,_ **[2021 Out of Print - Kala Ghoda Special Issue](http://outofprintmagazine.blogspot.com/2021/03/the-out-of-print-workshop-at-kala-ghoda_44.html)**   <br>
 _Don't Feed Me Raw Papayas,_ 2021 **Leicester Writes Prize Anthology** (Forthcoming)  <br>
 _Girls Gone Wild,_ **Gertrude Press** (Forthcoming) <br>
 _Jack-in-the-pulpit,_ **The Written Circle** (Forthcoming) <br>
