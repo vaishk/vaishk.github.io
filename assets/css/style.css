@@ -305,6 +305,9 @@ p {
 }
 
 .entry-content {
-  max-width: 800px !important;	
+  max-width: 810px !important;	
 }
 
+a {
+ color: blue !important;
+}
