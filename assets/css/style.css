@@ -305,13 +305,13 @@ p {
 }
 
 .entry-content {
-  max-width: 810px !important;	
+  max-width: 860px !important;	
 }
 
 .entry-content a {
  color: #2A5DB0 !important;
 }
 
-.entry-content h3 {
+h3 {
  color: #CAE4F1 !important;
 }
