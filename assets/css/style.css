@@ -308,6 +308,10 @@ p {
   max-width: 810px !important;	
 }
 
-a {
- color: blue !important;
+.entry-content a {
+ color: #2A5DB0 !important;
+}
+
+.entry-content h3 {
+ color: #CAE4F1 !important;
 }
